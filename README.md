@@ -95,4 +95,5 @@ Do not connect 3 and 4 IDC pins. Cut strands 3 and 4 of the ribbon cable (see ph
 
 ## Refs
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf
+https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf
 
