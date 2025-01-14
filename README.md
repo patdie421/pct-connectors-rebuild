@@ -1,13 +1,11 @@
 # pct-connectors-rebuild
 
-Video Composite output
-======================
+## Video Composite output
 
 [to do]
 
 
-CGA Video cable (AE Digital RGB Adapter)
-========================================
+## CGA Video cable (AE Digital RGB Adapter)
 
 (photo)
 
@@ -80,8 +78,7 @@ IDC    DB9
 10 
 
 
-Apple 2e keyboard adapter
-=========================
+## Apple 2e keyboard adapter
 
 connections
 
