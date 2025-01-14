@@ -5,7 +5,7 @@
 [to do]
 
 
-## CGA Video cable (AE Digital RGB Adapter)
+## CGA Video cable (AE Digital RGB Adapter) - not tested now
 
 (photo)
 
