@@ -24,11 +24,11 @@ Connectors pinout :
 IDC Male  
 (front side)  
 \____________________   
-| 1   3   5   7   9|  
-| 2   4   6   8  10|  
+\| 1   3   5   7   9|  
+\| 2   4   6   8  10|  
 \---  ----------  ---  
-  |1             |  
-  |ribbon  cables|  
+\  |1             |  
+\  |ribbon  cables|  
   
 1 GND  
 2 Intensity  
