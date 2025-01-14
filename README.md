@@ -23,6 +23,7 @@ Connectors pinout :
 
 IDC Male  
 (front side)  
+<pre>
 \____________________   
 \| 1   3   5   7   9|  
 \| 2   4   6   8  10|  
@@ -40,7 +41,7 @@ IDC Male
 8 VS  
 9 Bleu  
 10 -  
-
+</pre>
 
 DB9 Male
 (front side)
