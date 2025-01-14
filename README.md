@@ -66,7 +66,7 @@ Pin  CGA Function
 </pre>
 
 ### Connections
-<dev>
+<pre>
 IDC    DB9  
 1  --  1  
 2  --  6  
@@ -78,7 +78,7 @@ IDC    DB9
 8  --  9  
 9  --  5  
 10  
-</dev>
+</pre>
 
 
 ## Apple 2e keyboard adapter
