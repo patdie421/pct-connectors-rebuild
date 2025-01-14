@@ -21,12 +21,12 @@ Ribbon cable mount connectors are the best way to make this cable. Some parts th
 
 Connectors pinout :
 
-IDC Male
-(front side)
-'____________________'  
-'| 1   3   5   7   9|'  
-'| 2   4   6   8  10|'  
-'---  ----------  ---'  
+IDC Male  
+(front side)  
+____________________   
+| 1   3   5   7   9|  
+| 2   4   6   8  10|  
+---  ----------  ---  
   |1             |  
   |ribbon  cables|  
   
