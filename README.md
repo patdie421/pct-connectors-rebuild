@@ -9,7 +9,7 @@
 
 (photo)
 
-This cable is to use to output video signal directly to a CGA compatible monitor (TTL monitor). Apple II and PCT card can't share the same connection for video.
+This cable is to use to output video signal directly to a CGA compatible monitor (TTL monitor). Apple II and PCT card can't share easily the same connection for this kind of video.
 
 One side is a DB9 Male connector.
 Other one a "10 pins male IDC connector".
