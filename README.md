@@ -79,7 +79,7 @@ IDC    DB9
 9  --  5  
 10  
 </pre>
-
+cut strands 3 and 4 of the ribbon cable (see photo). 
 
 ## Apple 2e keyboard adapter
 
