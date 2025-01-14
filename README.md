@@ -21,7 +21,7 @@ Ribbon cable mount connectors are the best way to make this cable. Some parts th
 
 Connectors pinout :
 
-IDC Male  
+### IDC Male  
 (front side)  
 <pre>
 ____________________   
@@ -43,8 +43,9 @@ ____________________
 10 -  
 </pre>
 
-DB9 Male
+### DB9 Male
 (front side)
+<pre>
   |ribbon |
   |cables |
   |1______|
@@ -62,7 +63,7 @@ Pin  CGA Function
 7    Reserved
 8    Horizontal Sync
 9    Vertical Sync
-
+</pre>
 
 Connections
 
