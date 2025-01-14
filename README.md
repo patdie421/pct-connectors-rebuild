@@ -65,8 +65,8 @@ Pin  CGA Function
 9    Vertical Sync
 </pre>
 
-Connections
-
+### Connections
+<dev>
 IDC    DB9
 1  --  1
 2  --  6
@@ -77,7 +77,8 @@ IDC    DB9
 7  --  4 
 8  --  9
 9  --  5
-10 
+10
+</dev>
 
 
 ## Apple 2e keyboard adapter
