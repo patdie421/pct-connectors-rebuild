@@ -1,4 +1,5 @@
 # pct-connectors-rebuild
+## Connector locations
 ![pct card](images/pct-rev-d.png)
 ## Video Composite output
 
