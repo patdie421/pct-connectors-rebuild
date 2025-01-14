@@ -83,6 +83,7 @@ IDC    DB9
 
 ## Apple 2e keyboard adapter
 
+[to do]
 connections
 
 (schema)
