@@ -1,6 +1,7 @@
 # pct-connectors-rebuild
 ## Connector locations
-![pct card](images/image.png)
+![pct card](images/image.png) 
+![pct card connectors](images/IMG_3021.jpeg)
 ## Video Composite output
 
 [to do]
