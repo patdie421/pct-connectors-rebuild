@@ -6,7 +6,7 @@
 [to do]
 
 
-## CGA Video cable (AE Digital RGB Adapter) - not tested now
+## CGA Video cable (AE Digital RGB Adapter)
 <pre>
 <img src="images/IMG_3006.jpeg" height="200">
 </pre>
