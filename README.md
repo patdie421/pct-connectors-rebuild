@@ -7,9 +7,9 @@
 
 
 ## CGA Video cable (AE Digital RGB Adapter) - not tested now
-
-(photo)
-
+<pre>
+<img src="images/IMG_3007.jpeg" width="200">
+</pre>
 This cable is to use to output video signal directly to a CGA compatible monitor (TTL monitor). Apple II and PCT card can't share easily the same connection for this kind of video connection.
 
 One side is a DB9 Male connector.
