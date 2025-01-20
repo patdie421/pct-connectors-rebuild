@@ -45,7 +45,6 @@ ____________________
 </pre>
 
 ### DB9 Female
-(front side)
 <img src="images/IMG_3007.jpeg" width="200">
 <pre>
   |ribbon |
@@ -54,6 +53,7 @@ ____________________
  / 6 7 8 9 \
 / 1 2 3 4 5 \
 -------------
+(front side)
 
 Pin  CGA Function
 1    GND
