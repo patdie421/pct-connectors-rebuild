@@ -44,7 +44,7 @@ ____________________
 10 -  
 </pre>
 
-### DB9 Male
+### DB9 Female
 (front side)
 <pre>
   |ribbon |
