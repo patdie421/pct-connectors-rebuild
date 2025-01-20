@@ -81,7 +81,9 @@ IDC    DB9
 10  
 </pre>
 Do not connect 3 and 4 IDC pins. Cut strands 3 and 4 of the ribbon cable (see photo).  
-
+### Bonus
+You can have cristal clear output on HDMI monitor by using RGBTOHDMI (https://github.com/hoglet67/RGBtoHDMI). The profile to use is : [to add]
+<img src="images/IMG_3007.jpeg" width="400">
 ## Apple 2e keyboard adapter
 
 [to do]
