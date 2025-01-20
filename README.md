@@ -47,12 +47,12 @@ ____________________
 ### DB9 Female
 <img src="images/IMG_3007.jpeg" width="200">
 <pre>
-  |ribbon |
-  |cables |
-  |1______|
- / 6 7 8 9 \
-/ 1 2 3 4 5 \
--------------
+ | ribbon  |
+ | cables  |
+_|_______ 1|_
+\ 5 4 3 2 1 /
+ \ 9 8 7 6 /
+  ---------
 (front side)
 
 Pin  CGA Function
