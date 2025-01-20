@@ -44,7 +44,7 @@ ____________________
 </pre>
 
 ### DB9 Female
-<img src="images/IMG_3007.jpeg" width="240">
+<img src="images/IMG_3007.jpeg" width="300">
 (note the cutout in the ribbon cable)  
 
 <pre>
