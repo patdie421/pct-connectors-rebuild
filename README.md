@@ -46,6 +46,7 @@ ____________________
 
 ### DB9 Female
 (front side)
+![db9 female CGA](images/IMG_3007.jpeg)
 <pre>
   |ribbon |
   |cables |
