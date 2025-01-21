@@ -98,6 +98,18 @@ The cable connects to J6. There is no key on the male connector, the cable "poin
 ### Bonus
 You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://github.com/hoglet67/RGBtoHDMI). The profile to use is : [to add]  
 <img src="images/IMG_3022.jpeg" width="400">
+
+## Storage connector
+<img src="images/IMG_2977.jpeg" width="300">
+
+### IDC Female  
+
+### DB9 Female
+
+### Cable
+
+### usage
+
 ## Apple 2e keyboard adapter
 
 [to do]
