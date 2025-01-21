@@ -1,7 +1,9 @@
 # pct-connectors-rebuild
 <div style="text-align:center;">
+  
 ![figure 1: PC Transporter rev D](images/image.png) 
 <p>figure 1: PC Transporter rev D</p>
+
 </div>
 ## Connector locations  
 ![figure 2: PC Transport connector location](images/IMG_3021.jpeg)
