@@ -1,7 +1,7 @@
 # pct-connectors-rebuild
 ## Connector locations
-![pct card](images/image.png) 
-![pct card connectors](images/IMG_3021.jpeg)
+![figure 1: PC Transport rev D](images/image.png) 
+![figure 2: PC Transport connector location](images/IMG_3021.jpeg)
 ## Video Composite output
 
 [to do]
