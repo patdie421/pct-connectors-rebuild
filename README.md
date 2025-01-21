@@ -15,8 +15,8 @@ The data comes from different sources available on Internet. I will try to refer
 <p style="text-align:center;">figure 2: front view card diagram with connector locations</p>
 <pre>
 J1 - Apple II Speaker motherboard connector (INPUT)
-J3 - IIe keyboard adapter
 J2 - Composite video
+J3 - IIe keyboard adapter
 J4 - PC Transporter Disk drive
 J5 - PC Compatible keyboard (XT/AT or PS/2)
 J6 - ColorSwitch
@@ -195,6 +195,35 @@ IDC    DB9
 
 [to do]
 
+## PC Compatible keyboard
+
+### Molex connector
+<pre>
+___
+|1|   Clock
+|2|   Data
+|3|
+|4|   GND
+|5|   +5V
+---
+</pre>
+### PS/2 Connector
+<pre>
+    6  N  5
+  4          3
+     2   1
+(socket/female)
+</pre>
+### PS/2 Cable
+<pre>
+Molex  PS/2
+1  -   5
+2  -   1
+3  -   2
+4  -   3
+5  -   4
+       6
+</pre>
 ## useful links
 https://ae.applearchives.com/all_apple_iis/pc_transporter/pc_transporter_manual_131.pdf  
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
