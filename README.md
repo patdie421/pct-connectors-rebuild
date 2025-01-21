@@ -6,6 +6,16 @@ The data comes from different sources available on Internet. I will try to refer
 
 ![figure 1: PC Transporter rev D](images/image.png)  
 <p>figure 1: PC Transporter rev D</p>
+<pre>
+J1 - Apple II Speaker motherboard connector (INPUT)
+J3 - IIe keyboard adapter
+J2 - Composite video
+J4 - PC Transporter Disk drive
+J5 - PC Compatible keyboard (XT/AT or PS/2)
+J6 - ColorSwitch
+J7 - Apple II Speaker (OUTPUT)
+J8 - Coprocessor socket
+</pre>
 </div>
 
 ## Connector locations  
