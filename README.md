@@ -234,10 +234,10 @@ Molex  PS/2
 ## Video
 ### Molex connector
 <pre>
-___
-|1|   GND
-|2|   Video Composite (NTSC)
----
+____
+|1||   GND
+|2||   Video Composite (NTSC)
+----
 </pre>
 ### Apple II internal Video Connector (J13)
 <pre>
