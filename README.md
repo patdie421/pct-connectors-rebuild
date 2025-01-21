@@ -85,7 +85,7 @@ IDC    DB9
 </pre>
 Do not connect 3 and 4 IDC pins. Cut strands 3 and 4 of the ribbon cable (see photo).  
 ### usage
-IDC connector is plug on J
+IDC connector is plug on J6, cable 
 ### Bonus
 You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://github.com/hoglet67/RGBtoHDMI). The profile to use is : [to add]  
 <img src="images/IMG_3022.jpeg" width="400">
