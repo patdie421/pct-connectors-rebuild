@@ -46,16 +46,16 @@ ____________________
   |1             |  
   |ribbon  cables|  
   
-1 GND  
-2 Intensity  
-3 (NC for CGA)  
-4 (NC for CGA)  
-5 Red  
-6 HS  
-7 Green  
-8 VS  
-9 Bleu  
-10 -  
+1 GND
+2 Intensity
+3 (NC for CGA)
+4 (NC for CGA)
+5 Red
+6 HS
+7 Green
+8 VS
+9 Bleu
+10 -
 </pre>
 
 ### DB9 Female
