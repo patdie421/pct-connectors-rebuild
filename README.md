@@ -8,10 +8,16 @@ The data comes from different sources available on Internet. I will try to refer
 <p>figure 1: PC Transporter rev D</p>
 </div>
 
+<div style="text-align:center;">
+
+![figure 2: Apple IIe motherboard](images/image.png)  
+<p>figure 1: PC Transporter rev D</p>
+</div>
+
 ## Connector locations  
 <div style="text-align:center;">
 
-![figure 2: PC Transport connector location](images/IMG_3021.jpeg)
+![figure 3: PC Transport connector location](images/IMG_3021.jpeg)
 <p style="text-align:center;">figure 2: front view card diagram with connector locations</p>
 <pre>
 J1 - Apple II Speaker motherboard connector (INPUT)
@@ -223,6 +229,39 @@ Molex  PS/2
 4  -   3
 5  -   4
        6
+</pre>
+
+## Video
+### Molex connector
+<pre>
+___
+|1|   GND
+|2|   Video Composite (NTSC)
+---
+</pre>
+### Apple II internal Video Connector
+<pre>
+
+(connector side)
+___________
+| 1 2 3 4 |
+-----------
+(keyboard side)
+
+1  GND
+2  Video
+3  -5V
+4  +12V
+---
+</pre>
+### Video Cable
+<pre>
+Molex  PS/2
+1  -   1
+2  -   2
+   -   3
+   -   4
+
 </pre>
 ## useful links
 https://ae.applearchives.com/all_apple_iis/pc_transporter/pc_transporter_manual_131.pdf  
