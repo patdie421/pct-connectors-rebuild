@@ -4,9 +4,7 @@
 
 ## Connector locations  
 ![figure 2: PC Transport connector location](images/IMG_3021.jpeg)
-<p style="text-align:center;">
-figure 2
-</p>
+<p style="text-align:center;">figure 2</p>
 
 ## Video Composite output
 [to do]
