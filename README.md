@@ -69,7 +69,7 @@ Pin  CGA Function
 9    Vertical Sync
 </pre>
 
-### Connections
+### Cable
 <pre>
 IDC    DB9  
 1  --  1  
@@ -84,6 +84,8 @@ IDC    DB9
 10  
 </pre>
 Do not connect 3 and 4 IDC pins. Cut strands 3 and 4 of the ribbon cable (see photo).  
+### usage
+IDC connector is plug on J
 ### Bonus
 You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://github.com/hoglet67/RGBtoHDMI). The profile to use is : [to add]  
 <img src="images/IMG_3022.jpeg" width="400">
