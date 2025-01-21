@@ -3,12 +3,14 @@ In this repository I will consolidate all the elements which will allow you to u
 The data comes from different sources found on the internet. I will try to reference them all in the "useful links" section.  
 
 <div style="text-align:center;">
+
 ![figure 1: PC Transporter rev D](images/image.png)  
 <p>figure 1: PC Transporter rev D</p>
 </div>
 
 ## Connector locations  
 <div style="text-align:center;">
+
 ![figure 2: PC Transport connector location](images/IMG_3021.jpeg)
 <p style="text-align:center;">figure 2</p>
 </div>
