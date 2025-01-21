@@ -124,7 +124,7 @@ You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://gi
 
 [to do]
 
-## Refs
+## useful links
 https://ae.applearchives.com/all_apple_iis/pc_transporter/pc_transporter_manual_131.pdf
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf
 
