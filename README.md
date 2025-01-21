@@ -100,7 +100,7 @@ You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://gi
 <img src="images/IMG_3022.jpeg" width="400">
 
 ## Storage connector
-<img src="images/IMG_2977.jpeg" width="300">
+<img src="images/IMG_2981.jpeg" width="300">
 
 ### IDC Female  
 
