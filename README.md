@@ -125,6 +125,27 @@ _________________________________________
  /  1  2  3  4  5  6  7  8  9  10 \
 ------------------------------------  
 (front side)
+
+Pin Function apple pinout
+1   GND      GND
+2   GND      GND
+3            GND
+4            GND (IIgs: /3.5DISK bidirectional)
+5            -12V
+6   5V       +5V
+7   12V      +12V
+8   12V      +12V
+9            /ENABLE2 (IIc /EXTINT)
+10           WPROD (Macintosh: PWM)
+11           PHASE0
+12           PHASE1
+13           PHASE2 
+14           PHASE3
+15           /WREQ
+16           (Machintosh: SELECT, IIe/II+: +5V, IIc: N.C., IIgs: SELECT bidirectional)
+17           /ENABLE (II+/IIe/IIgs: /ENABLE1)
+18           RD
+19           WR
 </pre>
 
 ### Cable
@@ -169,4 +190,5 @@ https://ae.applearchives.com/all_apple_iis/pc_transporter/pc_transporter_manual_
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
 https://osites.tripod.com/transport.html  
 https://www.applefritter.com/appleii-box/H070_AppleIITransDriveAdaptor.htm  
+https://www.applefritter.com/content/applied-engineering-pc-transporter-and-drives  
 
