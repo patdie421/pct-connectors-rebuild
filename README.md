@@ -12,7 +12,7 @@ The data comes from different sources found on the internet. I will try to refer
 <div style="text-align:center;">
 
 ![figure 2: PC Transport connector location](images/IMG_3021.jpeg)
-<p style="text-align:center;">figure 2</p>
+<p style="text-align:center;">figure 2: schematic card front view of connector locations</p>
 </div>
 
 ## Video Composite output
