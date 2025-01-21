@@ -106,8 +106,25 @@ You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://gi
 <img src="images/IMG_2981.jpeg" height="200">
 
 ### 20 pin IDC Female  
-
+<pre>
+(front side)  
+_________________________________________   
+| 2   4   6   8  10  12  14  16  18  20 |  
+| 1   3   5   7   9  11  13  15  17  19 |  
+------------------|   |------------------  
+  |1                                  |  
+  |           ribbon cables           |  
+</pre>
 ### DB19 Female
+<pre>
+ | ribbon  |
+ | cables  |
+_|________________________________
+\ 10  9  8  7  6  5  4  3  2  1 /
+ \  11 12 13 14 15 16 17 18 19 /
+  -----------------------------
+(front side)
+</pre>
 
 ### Cable
 
