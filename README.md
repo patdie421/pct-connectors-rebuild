@@ -117,17 +117,38 @@ _________________________________________
 </pre>
 ### DB19 Female
 <pre>
- | ribbon  |
- | cables  |
-_|________________________________
-\ 10  9  8  7  6  5  4  3  2  1 /
- \  11 12 13 14 15 16 17 18 19 /
-  -----------------------------
+   |                            |
+   |1___________________________|
+  /  11 12 13 14 15 16 17 18 19  \  
+ /  1  2  3  4  5  6  7  8  9  10 \
+------------------------------------  
 (front side)
 </pre>
 
 ### Cable
-
+<pre>
+IDC    DB9  
+1  --  1  
+2  -- 11  
+3      2  
+4     12  
+5  --  3  
+6  -- 13  
+7  --  4  
+8  -- 14  
+9  --  5  
+10 -- 15
+11 --  6
+12 -- 16
+13 --  7
+14 -- 17
+15 --  8
+16 -- 18
+17 --  9
+18 -- 19
+19 -- 10
+20
+</pre>
 ### usage
 
 ## Apple 2e keyboard adapter
@@ -142,6 +163,7 @@ _|________________________________
 [to do]
 
 ## useful links
-https://ae.applearchives.com/all_apple_iis/pc_transporter/pc_transporter_manual_131.pdf
-https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf
+https://ae.applearchives.com/all_apple_iis/pc_transporter/pc_transporter_manual_131.pdf  
+https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
+https://osites.tripod.com/transport.html  
 
