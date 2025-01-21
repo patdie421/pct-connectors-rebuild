@@ -22,6 +22,7 @@ Ribbon cable mount connectors are the best way to make this cable. Some parts th
 Connectors pinout :
 
 ### IDC Male  
+<img src="images/IMG_2981.jpeg" width="300">
 <pre>
 (front side)  
 ____________________   
