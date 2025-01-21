@@ -242,14 +242,14 @@ ___
 ### Apple II internal Video Connector
 <pre>
 
-(connector side)
+(connectors side)
 ___________
 | 1 2 3 4 |
------------
+===========
 (keyboard side)
 
 1  GND
-2  Video
+2  Video Composite (NTSC or PAL)
 3  -5V
 4  +12V
 ---
