@@ -7,8 +7,8 @@
 <p>
 figure 2
 </p>
-## Video Composite output
 
+## Video Composite output
 [to do]
 
 
