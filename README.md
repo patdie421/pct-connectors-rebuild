@@ -251,8 +251,8 @@ ___________
 2  Video Composite (NTSC or PAL)
 3  -5V
 4  +12V
----
 </pre>
+
 ### Video Cable
 <pre>
 Molex  PS/2
