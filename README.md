@@ -210,7 +210,7 @@ ___
 ### PS/2 Connector
 <pre>
     6  N  5
-  4          3
+  4         3
      2   1
 (socket/female)
 </pre>
