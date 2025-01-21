@@ -33,7 +33,7 @@ Ribbon cable mount connectors are the best way to make this cable. Some parts th
 
 Connectors pinout :
 
-### IDC Male  
+### 10 pin IDC Male  
 <img src="images/IMG_2977.jpeg" width="300">
 <pre>
 (front side)  
@@ -105,7 +105,7 @@ You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://gi
 ## Storage connector
 <img src="images/IMG_2981.jpeg" height="200">
 
-### IDC Female  
+### 20 pin IDC Female  
 
 ### DB19 Female
 
