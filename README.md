@@ -21,7 +21,6 @@ The data comes from different sources available on Internet. I will try to refer
 
 ## CGA Video cable (AE Digital RGB Adapter)
 <img src="images/IMG_3006.jpeg" height="200">
-status: done, working.  
 
 This cable is to use to output video signal directly to a CGA compatible monitor (TTL monitor). Apple II and PCT card can't share easily the same connection for this kind of video connection.
 
@@ -33,7 +32,8 @@ Ribbon cable mount connectors are the best way to make this cable. Some parts th
 - (https://fr.farnell.com/en-FR/wurth-elektronik/61201025821/plug-idc-2-54mm-strain-relief/dp/2356318)
 - (https://fr.farnell.com/en-FR/multicomp-pro/8ftm09p-30n1-fec/plug-idc-d-threaded-9way/dp/1099306)
 
-Connectors pinout :
+### status
+done, working.
 
 ### 10 pin IDC Male  
 <img src="images/IMG_2977.jpeg" width="300">
