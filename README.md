@@ -239,9 +239,8 @@ ___
 |2|   Video Composite (NTSC)
 ---
 </pre>
-### Apple II internal Video Connector
+### Apple II internal Video Connector (J13)
 <pre>
-
 (connectors side)
 ___________
 | 1 2 3 4 |
