@@ -3,11 +3,14 @@
   
 ![figure 1: PC Transporter rev D](images/image.png) 
 <p>figure 1: PC Transporter rev D</p>
-
 </div>
+
 ## Connector locations  
+<div style="text-align:center;">
+
 ![figure 2: PC Transport connector location](images/IMG_3021.jpeg)
 <p style="text-align:center;">figure 2</p>
+</div>
 
 ## Video Composite output
 [to do]
