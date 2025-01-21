@@ -1,5 +1,6 @@
 # pct-connectors-rebuild
 in this repository I will consolidate all the elements which will allow you to use an "AE PC Transporter" card in an Apple IIe or IIgs. In particular, elements allowing you to recreate the cables and connectors which are generally lost when one of these cards is found.  
+The data comes from different sources found on the internet. I will try to reference them all in the useful links section.  
 
 <div style="text-align:center;">
   
