@@ -18,7 +18,7 @@ The data comes from different sources available on Internet. I will try to refer
 <div style="text-align:center;">
 
 ![figure 3: PC Transport connector location](images/IMG_3021.jpeg)
-<p style="text-align:center;">figure 2: front view card diagram with connector locations</p>
+<p style="text-align:center;">figure 3: front view card diagram with connector locations</p>
 <pre>
 J1 - Apple II Speaker motherboard connector (INPUT)
 J2 - Composite video
