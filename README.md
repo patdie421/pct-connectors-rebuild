@@ -86,7 +86,7 @@ done, working.
 ### 10 pin IDC Male  
 <img src="images/IMG_2977.jpeg" width="300">
 <pre>
-(front side)  
+(front view)  
 ____________________   
 | 2   4   6   8  10|  
 | 1   3   5   7   9|  
@@ -117,7 +117,7 @@ _|_______ 1|_
 \ 5 4 3 2 1 /
  \ 9 8 7 6 /
   ---------
-(front side)
+(front view)
 
 Pin  CGA Function
 1    GND
@@ -157,13 +157,13 @@ You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://gi
 
 ### 20 pin IDC Female  
 <pre>
-(front side)  
 _________________________________________   
 | 2   4   6   8  10  12  14  16  18  20 |  
 | 1   3   5   7   9  11  13  15  17  19 |  
 ------------------|   |------------------  
   |1                                  |  
-  |           ribbon cables           |  
+  |           ribbon cables           | 
+(front view)  
 </pre>
 ### DB19 Female
 <pre>
@@ -172,7 +172,7 @@ _________________________________________
   /  11 12 13 14 15 16 17 18 19  \  
  /  1  2  3  4  5  6  7  8  9  10 \
 ------------------------------------  
-(front side)
+(front view)
 
 Pin Function apple pinout
 1   GND      GND
@@ -244,14 +244,14 @@ ____
 |2||   Data
 |1||   Clock
 ----
-(cable connector - frond)
+(cable connector - frond view)
 </pre>
 ### PS/2 Connector
 <pre>
     6  N  5
   4         3
      2   1
-(socket/female - front)
+(socket/female - front view)
 </pre>
 ### PS/2 Cable
 <pre>
