@@ -35,9 +35,10 @@ J8 - Coprocessor socket
 ### Molex connector
 <pre>
 ____
-||1|   GND
-||2|   Video Composite (NTSC)
+|2||   Video Composite (NTSC)
+|1||   GND
 ----
+(front view)
 </pre>
 ### Apple II internal Video Connector (J13)
 <pre>
