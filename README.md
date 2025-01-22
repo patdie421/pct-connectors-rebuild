@@ -211,8 +211,8 @@ ____
 |3||
 |2||   Data
 |1||   Clock
-(cable connector - frond)
 ----
+(cable connector - frond)
 </pre>
 ### PS/2 Connector
 <pre>
