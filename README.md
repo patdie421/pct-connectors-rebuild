@@ -43,9 +43,9 @@ ____
 ### Apple II internal Video Connector (J13)
 <pre>
 (connectors side)
-___________
-| 1 2 3 4 |
 ===========
+| 4 3 2 1 |
+-----------
 (keyboard side)
 
 1  GND
