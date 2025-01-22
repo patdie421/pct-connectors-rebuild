@@ -195,7 +195,7 @@ IDC    DB9
 [to do]
 ### connections
 
-(schema)
+[schema]
 
 ### PCB
 
