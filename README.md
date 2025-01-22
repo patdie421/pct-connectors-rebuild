@@ -21,11 +21,11 @@ The data comes from different sources available on Internet. I will try to refer
 <p style="text-align:center;">figure 3: front view card diagram with connector locations</p>
 <pre>
 J1 - Apple II Speaker motherboard connector (INPUT)
-J2 - Composite video
-J3 - IIe keyboard adapter
-J4 - PC Transporter Disk drive
-J5 - PC Compatible keyboard (XT/AT or PS/2)
-J6 - ColorSwitch
+J2 - Composite video (OUTPUT)
+J3 - IIe keyboard adapter (INPUT)
+J4 - PC Transporter Disk drive (INPUT/OUTPUT)
+J5 - PC Compatible keyboard (XT/AT or PS/2) (INPUT)
+J6 - ColorSwitch (OUTPUT)
 J7 - Apple II Speaker (OUTPUT)
 J8 - Coprocessor socket
 </pre>
