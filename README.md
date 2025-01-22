@@ -42,11 +42,10 @@ ____
 </pre>
 ### Apple II internal Video Connector (J13)
 <pre>
-(connectors side)
 ===========
 | 4 3 2 1 |
 -----------
-(keyboard side)
+(Front view)
 
 1  GND
 2  Video Composite (NTSC or PAL)
