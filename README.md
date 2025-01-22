@@ -32,8 +32,35 @@ J8 - Coprocessor socket
 </div>
 
 ## Video Composite output
-[to do]
+### Molex connector
+<pre>
+____
+||1|   GND
+||2|   Video Composite (NTSC)
+----
+</pre>
+### Apple II internal Video Connector (J13)
+<pre>
+(connectors side)
+___________
+| 1 2 3 4 |
+===========
+(keyboard side)
 
+1  GND
+2  Video Composite (NTSC or PAL)
+3  -5V
+4  +12V
+</pre>
+
+### Video Cable
+<pre>
+Molex  PS/2
+1  -   1
+2  -   2
+   -   3
+   -   4
+</pre>
 
 ## CGA Video cable (AE Digital RGB Adapter)
 <img src="images/IMG_3006.jpeg" height="200">
@@ -232,37 +259,6 @@ Molex  PS/2
        6
 </pre>
 
-## Video
-### Molex connector
-<pre>
-____
-||1|   GND
-||2|   Video Composite (NTSC)
-----
-</pre>
-### Apple II internal Video Connector (J13)
-<pre>
-(connectors side)
-___________
-| 1 2 3 4 |
-===========
-(keyboard side)
-
-1  GND
-2  Video Composite (NTSC or PAL)
-3  -5V
-4  +12V
-</pre>
-
-### Video Cable
-<pre>
-Molex  PS/2
-1  -   1
-2  -   2
-   -   3
-   -   4
-
-</pre>
 ## useful links
 https://ae.applearchives.com/all_apple_iis/pc_transporter/pc_transporter_manual_131.pdf  
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
