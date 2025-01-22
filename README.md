@@ -30,7 +30,7 @@ J8 - Coprocessor socket
 ![figure 3: Apple IIe motherboard](images/IMG_3023.jpeg)  
 <p>figure 3: Apple IIe motherboard</p>
 <pre>
-J13 - Composite video (INPUT/OUPUT)
+J13 - Composite video - A12 - (INPUT/OUPUT)
 J17 - IIe keyboard adapter (INPUT)
 J18 - Apple II Speaker motherboard connector (OUTPUT)
 </pre>
