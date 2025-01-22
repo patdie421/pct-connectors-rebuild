@@ -8,17 +8,11 @@ The data comes from different sources available on Internet. I will try to refer
 <p>figure 1: PC Transporter rev D</p>
 </div>
 
-<div style="text-align:center;">
-
-![figure 2: Apple IIe motherboard](images/IMG_3023.jpeg)  
-<p>figure 2: Apple IIe motherboard</p>
-</div>
-
 ## Connector locations  
 <div style="text-align:center;">
 
-![figure 3: PC Transport connector location](images/IMG_3021.jpeg)
-<p style="text-align:center;">figure 3: front view card diagram with connector locations</p>
+![figure 2: PC Transport connector location](images/IMG_3021.jpeg)
+<p style="text-align:center;">figure 2: front view card diagram with connector locations</p>
 <pre>
 J1 - Apple II Speaker motherboard connector (INPUT)
 J2 - Composite video (OUTPUT)
@@ -29,6 +23,12 @@ J6 - ColorSwitch (OUTPUT)
 J7 - Apple II Speaker (OUTPUT)
 J8 - Coprocessor socket
 </pre>
+</div>
+
+<div style="text-align:center;">
+
+![figure 3: Apple IIe motherboard](images/IMG_3023.jpeg)  
+<p>figure 3: Apple IIe motherboard</p>
 </div>
 
 ## Video Composite output
