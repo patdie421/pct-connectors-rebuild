@@ -32,7 +32,7 @@ J8 - Coprocessor socket
 <pre>
 J13 - Composite video - A14 - (INPUT/OUPUT)
 J17 - IIe keyboard adapter (INPUT)
-J18 - Apple II Speaker motherboard connector (OUTPUT)
+J18 - Apple II Speaker motherboard connector - F02 - (OUTPUT)
 </pre>
 </div>
 
