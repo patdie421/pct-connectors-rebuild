@@ -205,13 +205,13 @@ IDC    DB9
 
 ### Molex connector
 <pre>
-___
-|1|   Clock
-|2|   Data
-|3|
-|4|   GND
-|5|   +5V
----
+____
+|1||   Clock
+|2||   Data
+|3||
+|4||   GND
+|5||   +5V
+----
 </pre>
 ### PS/2 Connector
 <pre>
