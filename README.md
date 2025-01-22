@@ -206,11 +206,12 @@ IDC    DB9
 ### Molex connector
 <pre>
 ____
-|1||   Clock
-|2||   Data
-|3||
-|4||   GND
 |5||   +5V
+|4||   GND
+|3||
+|2||   Data
+|1||   Clock
+(cable connector - frond)
 ----
 </pre>
 ### PS/2 Connector
@@ -218,7 +219,7 @@ ____
     6  N  5
   4         3
      2   1
-(socket/female)
+(socket/female - front)
 </pre>
 ### PS/2 Cable
 <pre>
