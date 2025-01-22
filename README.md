@@ -33,7 +33,6 @@ J8 - Coprocessor socket
 J13 - Composite video (INPUT/OUPUT)
 J17 - IIe keyboard adapter (INPUT)
 J18 - Apple II Speaker motherboard connector (OUTPUT)
-J4 - PC Transporter Disk drive (INPUT/OUTPUT)
 </pre>
 </div>
 
