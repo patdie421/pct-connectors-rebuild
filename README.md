@@ -9,6 +9,7 @@ The data comes from different sources available on Internet. I will try to refer
 </div>
 
 ## Connector locations  
+### PCT Card
 <div style="text-align:center;">
 
 ![figure 2: PC Transport connector location](images/IMG_3021.jpeg)
@@ -25,6 +26,7 @@ J8 - Coprocessor socket
 </pre>
 </div>
 
+### Apple IIe
 <div style="text-align:center;">
 
 ![figure 3: Apple IIe motherboard](images/IMG_3023.jpeg)  
