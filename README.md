@@ -270,4 +270,5 @@ https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/A
 https://osites.tripod.com/transport.html  
 https://www.applefritter.com/appleii-box/H070_AppleIITransDriveAdaptor.htm  
 https://www.applefritter.com/content/applied-engineering-pc-transporter-and-drives  
+https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/hardware/misc/Apple%20II%20Family%20Pinouts.pdf
 
