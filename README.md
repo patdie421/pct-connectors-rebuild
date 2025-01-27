@@ -2,7 +2,7 @@
 In this repository I will consolidate all the elements which will allow you to use an "AE PC Transporter" card in an Apple IIe or IIgs. In particular, elements allowing you to recreate the cables and connectors which are generally lost when one of these cards is found.  
 The data comes from different sources available on Internet. I will try to reference them all in the "useful links" section.  
 
-<div style="text-align:center border:2px solid grey;">
+<div style="text-align:center;">
 
 ![figure 1: PC Transporter rev D](images/image.png)  
 <p>figure 1: PC Transporter rev D</p>
@@ -70,7 +70,7 @@ Molex  PS/2
 </pre>
 
 ## CGA Video cable (AE Digital RGB Adapter)
-<img src="images/IMG_3006.jpeg" height="200">
+<img src="images/IMG_3006.jpeg" height="200"  style="border:2px solid grey;">
 
 This cable is to use to output video signal directly to a CGA compatible monitor (TTL monitor). Apple II and PCT card can't share easily the same connection for this kind of video connection.
 
