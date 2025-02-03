@@ -59,9 +59,6 @@ ____
 4  +12V
 </pre>
 
-### status
-done, working.
-
 ### Video Cable
 <pre>
 Molex  PS/2
@@ -70,6 +67,9 @@ Molex  PS/2
    -   3
    -   4
 </pre>
+
+### status
+done, working.
 
 ## CGA Video cable (AE Digital RGB Adapter)
 <img src="images/IMG_3006.jpeg" height="200">
