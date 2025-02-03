@@ -258,11 +258,11 @@ ____
 ### PS/2 Cable
 <pre>
 Molex  PS/2
-1  -   5
-2  -   1
-3  -   2
-4  -   3
-5  -   4
+ 1  -  5
+ 2  -  1
+(3  -  2) - 2 unused pins, connection not needed
+ 4  -  3
+ 5  -  4
        6
 </pre>
 
