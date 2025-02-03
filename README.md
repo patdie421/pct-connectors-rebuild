@@ -275,14 +275,14 @@ https://ae.applearchives.com/all_apple_iis/pc_transporter/
 Various PCT Pinouts and adaptaters  
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
 
-Pinouts, adapters and other resources 
+Pinouts, adapters and other resources  
 https://osites.tripod.com/transport.html  
 
 Schematics and PCB for 5.25" and 3.5" PC floppy drive adapter rebuild  
 https://www.applefritter.com/appleii-box/H070_AppleIITransDriveAdaptor.htm  
 
 Pinouts of various Apple II, Apple IIe, Apple IIc, Apple IIgs and Apple Printers connectors  
-https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/hardware/misc/Apple%20II%20Family%20Pinouts.pdf
+https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/hardware/misc/Apple%20II%20Family%20Pinouts.pdf  
 
 For photos  
 https://www.applefritter.com/content/applied-engineering-pc-transporter-and-drives  
