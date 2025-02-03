@@ -231,14 +231,16 @@ done, working.
 
 ## Apple 2e keyboard adapter
 
-[to do]
 ### connections
 
 [schema]
 
 ### PCB
 
-[to do]
+[comming soon]
+
+### status
+done, working.
 
 ## PC Compatible keyboard
 <img src="images/IMG_3034.jpeg" height="200">
