@@ -59,6 +59,9 @@ ____
 4  +12V
 </pre>
 
+### status
+done, working.
+
 ### Video Cable
 <pre>
 Molex  PS/2
@@ -80,9 +83,6 @@ Ribbon cable mount connectors are the best way to make this cable. Some parts th
 
 - IDC : https://fr.farnell.com/en-FR/wurth-elektronik/61201025821/plug-idc-2-54mm-strain-relief/dp/2356318
 - DB9 : https://fr.farnell.com/en-FR/multicomp-pro/8ftm09p-30n1-fec/plug-idc-d-threaded-9way/dp/1099306
-
-### status
-done, working.
 
 ### 10 pin IDC Male  
 <img src="images/IMG_2977.jpeg" width="300">
@@ -152,6 +152,8 @@ The cable connects to J6. There is no key on the male connector, the cable "poin
 ### Bonus
 You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://github.com/hoglet67/RGBtoHDMI). The profile to use is : [to add]  
 <img src="images/IMG_3022.jpeg" width="400">
+### status
+done, working.
 
 ## Storage connector
 <img src="images/IMG_2981.jpeg" height="200">
@@ -223,6 +225,9 @@ IDC    DB9
 </pre>
 ### usage
 
+### status
+done, working.
+
 ## Apple 2e keyboard adapter
 
 [to do]
@@ -267,6 +272,8 @@ Molex  PS/2
  5  -  4
        6
 </pre>
+### status
+done, test in progress.
 
 ## useful links
 PCT documentations and software  
