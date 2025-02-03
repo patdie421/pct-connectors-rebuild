@@ -22,7 +22,6 @@ J4 - PC Transporter Disk drive (INPUT/OUTPUT)
 J5 - PC Compatible keyboard (XT/AT or PS/2) (INPUT)
 J6 - ColorSwitch/CGA (OUTPUT)
 J7 - Apple II Speaker (OUTPUT)
-J8 - Coprocessor socket
 </pre>
 </div>
 
