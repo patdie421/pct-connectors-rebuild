@@ -236,7 +236,7 @@ IDC    DB9
 [to do]
 
 ## PC Compatible keyboard
-
+<img src="images/IMG_3034.jpeg" height="200">
 ### Molex connector
 <pre>
 ____
