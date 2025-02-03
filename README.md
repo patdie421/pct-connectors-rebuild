@@ -269,8 +269,9 @@ Molex  PS/2
 </pre>
 
 ## useful links
-Documentations and software  
-https://ae.applearchives.com/all_apple_iis/pc_transporter/
+PCT documentations and software  
+https://ae.applearchives.com/all_apple_iis/pc_transporter/  
+
 
 https://ae.applearchives.com/all_apple_iis/pc_transporter/pc_transporter_manual_131.pdf  
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
