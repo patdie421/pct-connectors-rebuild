@@ -5,7 +5,7 @@ The data comes from different sources available on Internet. I will try to refer
 <div style="text-align:center;">
 
 ![figure 1: PC Transporter rev D](images/image.png)  
-<p>figure 1: PC Transporter rev D</p>
+<p>figure 1: PC Transporter rev D (front view)</p>
 </div>
 
 ## Connector locations  
