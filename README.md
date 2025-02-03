@@ -272,8 +272,9 @@ Molex  PS/2
 PCT documentations and software  
 https://ae.applearchives.com/all_apple_iis/pc_transporter/  
 
-
+Various PCT Pinouts and adaptaters  
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
+
 https://osites.tripod.com/transport.html  
 https://www.applefritter.com/appleii-box/H070_AppleIITransDriveAdaptor.htm  
 https://www.applefritter.com/content/applied-engineering-pc-transporter-and-drives  
