@@ -237,6 +237,9 @@ IDC    DB9
 
 ## PC Compatible keyboard
 <img src="images/IMG_3034.jpeg" height="200">
+<pre>
+This cable is based on a "PS2 extension cable for keyboard and mouse" (like https://amzn.eu/d/a3pizTv) cut approximately 50 cm after the female connector. An 5 pins JST connector.
+</pre>
 ### Molex connector
 <pre>
 ____
