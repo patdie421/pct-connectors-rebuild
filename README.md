@@ -237,7 +237,7 @@ done, working.
 
 ### PCB
 
-[comming soon]
+[preview](hardware/a2keyboardToPCT/V0.0/a2keyboardToPCT.png)
 
 ### status
 done, working.
