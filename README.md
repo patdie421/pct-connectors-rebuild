@@ -233,7 +233,7 @@ done, working.
 
 ### connections
 
-[schema]
+<img src="hardware/a2keyboardToPCT/V1.0/a2keyboardToPCT.pdf">
 
 ### PCB
 
