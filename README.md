@@ -279,6 +279,8 @@ https://osites.tripod.com/transport.html
 
 Schematics and PCB for 5.25" and 3.5" PC floppy drive adapter rebuild  
 https://www.applefritter.com/appleii-box/H070_AppleIITransDriveAdaptor.htm  
-https://www.applefritter.com/content/applied-engineering-pc-transporter-and-drives  
+
 https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/hardware/misc/Apple%20II%20Family%20Pinouts.pdf
 
+For photos  
+https://www.applefritter.com/content/applied-engineering-pc-transporter-and-drives  
