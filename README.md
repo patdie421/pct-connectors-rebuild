@@ -275,6 +275,7 @@ https://ae.applearchives.com/all_apple_iis/pc_transporter/
 Various PCT Pinouts and adaptaters  
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
 
+Pinouts, adapters and other resources 
 https://osites.tripod.com/transport.html  
 
 Schematics and PCB for 5.25" and 3.5" PC floppy drive adapter rebuild  
