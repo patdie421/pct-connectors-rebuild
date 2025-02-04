@@ -236,8 +236,9 @@ The keyboard adapter is a small PCB and a ribbon cable supplied as an option wit
 Connections are described in this [schema](hardware/a2keyboardToPCT/a2keyboardToPCT.pdf)
 
 ### PCB
-
-[preview](hardware/a2keyboardToPCT/V0.0/a2keyboardToPCT.png)
+Based on the connection schema, can be found in this repository:
+[KiCad project and gerber files]hardware/a2keyboardToPCT/V0.0  
+[preview](hardware/a2keyboardToPCT/V0.0/a2keyboardToPCT.png)  
 
 ### status
 done, working.
