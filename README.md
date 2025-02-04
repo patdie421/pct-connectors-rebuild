@@ -237,8 +237,8 @@ Connections are described in this [schema](hardware/a2keyboardToPCT/a2keyboardTo
 
 ### PCB
 Based on the connection schema, can be found in this repository:
-[KiCad project and gerber files]hardware/a2keyboardToPCT/V0.0  
-[preview](hardware/a2keyboardToPCT/V0.0/a2keyboardToPCT.png)  
+[KiCad project and gerber files](hardware/a2keyboardToPCT/V0.0)  
+[PCB preview](hardware/a2keyboardToPCT/V0.0/a2keyboardToPCT.png)  
 
 ### status
 done, working.
