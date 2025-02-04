@@ -267,7 +267,7 @@ ____
 
 Pin   Function
  1    Data
- 2    N/C
+ 2    NC
  3    GND
  4    +5V
  5    Clock
