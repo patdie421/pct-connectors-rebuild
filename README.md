@@ -264,6 +264,14 @@ ____
    4       3
      2   1
 (socket/female - front view)
+
+Pin   Function
+ 1    Data
+ 2    N/C
+ 3    GND
+ 4    +5V
+ 5    Clock
+ 6    NC
 </pre>
 ### PS/2 Cable
 <pre>
