@@ -230,10 +230,10 @@ IDC    DB9
 done, working.
 
 ## Apple 2e keyboard adapter
+The keyboard adapter is a small PCB and cable supplied as an option with the PCT card. This adapter is placed between the Apple motherboard and the keyboard and provides status of certain keyboard keys (control, shift, Apple open/close, capslock) to the PCT. The other signals are only pass-throughs from the keyboard to the motherboard of the Apple 2e.
 
 ### connections
-
-[schema](hardware/a2keyboardToPCT/a2keyboardToPCT.pdf)
+Connections are described in this [schema](hardware/a2keyboardToPCT/a2keyboardToPCT.pdf)
 
 ### PCB
 
