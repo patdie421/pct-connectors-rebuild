@@ -79,7 +79,7 @@ Molex  PS/2
 done, working.
 
 ## CGA Video cable (AE Digital RGB Adapter)
-<img src="images/IMG_3006.jpeg" height="200">
+<img src="images/IMG_3006.jpeg" width="800">
 
 This cable is to use to output video signal directly to a CGA compatible monitor (TTL monitor). Apple II and PCT card can't share easily the same connection for this kind of video connection. Same monitor can display Apple II and PCT signal but for now through two different cables and adaptors (some monitor can automatically switch inputs and "emulate" composite switch or colorswitch behavior)
 
@@ -237,6 +237,8 @@ The IDC connector is keyed (the cable is oriented towards the inside of the appl
 done, working.
 
 ## Apple 2e keyboard adapter
+<img src="images/IMG_3007.jpeg" width="300">
+<img src="images/IMG_3007.jpeg" width="300">
 The keyboard adapter is a small PCB and a ribbon cable supplied as an option with the PCT card. This adapter is placed between the Apple motherboard and the keyboard and provides status of "dead keyboard keys" (control, shift, Apple open/close and capslock) to the PCT card. The other signals are only pass-throughs from the keyboard to the motherboard of the Apple 2e.
 
 ### connections
