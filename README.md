@@ -37,6 +37,8 @@ J7 - Apple II Speaker (OUTPUT)
 J13 (A14)   - Composite video (INPUT/OUPUT)
 J17 (E/F15) - IIe keyboard adapter (INPUT)
 J18 (F2)    - Apple II Speaker motherboard connector (OUTPUT)
+
+Note the different spacing between the keyboard connector and the numeric keypad connector of the two card versions.
 </pre>
 </div>
 
