@@ -237,8 +237,8 @@ The IDC connector is keyed (the cable is oriented towards the inside of the appl
 done, working.
 
 ## Apple 2e keyboard adapter
-<img src="images/IMG_3007.jpeg" width="300">
-<img src="images/IMG_3007.jpeg" width="300">
+<img src="images/IMG_3043.jpeg" width="400">
+<img src="images/IMG_3044.jpeg" width="400">
 The keyboard adapter is a small PCB and a ribbon cable supplied as an option with the PCT card. This adapter is placed between the Apple motherboard and the keyboard and provides status of "dead keyboard keys" (control, shift, Apple open/close and capslock) to the PCT card. The other signals are only pass-throughs from the keyboard to the motherboard of the Apple 2e.
 
 ### connections
