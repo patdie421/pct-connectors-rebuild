@@ -231,7 +231,7 @@ IDC    DB9
 20
 </pre>
 ### usage
-The IDC connector is keyed. Just connect 3.5" Apple floppy drive (/!\ not unidisk or )
+The IDC connector is keyed (the cable is oriented towards the inside of the apple II). Just connect 3.5" Apple floppy drive (/!\ not unidisk or AE Transdrive) to DB19 connector.
 
 ### status
 done, working.
