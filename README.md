@@ -44,7 +44,7 @@ Note the different spacing between the keyboard connector and the numeric keypad
 
 ## Video Composite output
 Simple two wires cable. Cheap female/female jumper wire can be used.
-PCT outputs an NTSC composite video signal. PAL motherboards can nevertheless be wired to the Molex connector on the PCT, but the monitor must be able to switch from the NTSC signal to the PAL signal.
+PCT Card outputs an NTSC composite video signal. PAL motherboards can nevertheless be wired to the Molex connector on the PCT, but the monitor must be able to switch from the NTSC signal to the PAL signal.
 ### Molex connector
 <pre>
 ____
