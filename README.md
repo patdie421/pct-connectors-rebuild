@@ -231,7 +231,7 @@ IDC    DB9
 20
 </pre>
 ### usage
-The IDC connector is keyed (the cable is oriented towards the inside of the apple II). Just connect 800ko 3.5" Apple floppy drive (/!\ do not connect 3.5" unidisk) or AE Transdrive to DB19 connector. Drive can be daisy chained check documentation.
+The IDC connector is keyed (the cable is oriented towards the inside of the apple II). Connect 800ko 3.5" Apple floppy drive (/!\ do not connect 3.5" unidisk) or AE Transdrive to DB19 connector. Drive can be daisy chained check documentation.
 
 ### status
 done, working.
