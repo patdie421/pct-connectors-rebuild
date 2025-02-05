@@ -243,7 +243,7 @@ Connections are described in this [schema](hardware/a2keyboardToPCT/a2keyboardTo
 ### PCB
 Based on the connections schema, it can be found in this repository:
 [KiCad project and gerber files](hardware/a2keyboardToPCT/V0.0)  
-The original version of the connector was designed for a US motherboard. It can be installed on a PAL computer but, be careful, the connector for the numeric keypad may conflict with the keyboard adapter. This PCB is roughly the same size and layout as the original one and therefore may have the same issue. It is best to use elevated female IDC connector if used with PAL Apple IIe.
+The original version of the connector was designed for a US motherboard. It can be installed on a PAL computer but, be careful, the connector for the numeric keypad may conflict with the keyboard adapter. This PCB is roughly the same size and layout as the original one and therefore may have the same issue. It is best to use elevated female IDC connector if used with PAL Apple IIe (https://fr.farnell.com/en-FR/samtec/esq-113-44-t-d/connect-femelle-26-voies-2-rangs/dp/2779437).
 ### status
 done, working.
 
