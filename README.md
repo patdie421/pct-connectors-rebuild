@@ -243,7 +243,7 @@ Connections are described in this [schema](hardware/a2keyboardToPCT/a2keyboardTo
 ### PCB
 Based on the connections schema, it can be found in this repository:
 [KiCad project and gerber files](hardware/a2keyboardToPCT/V0.0)  
-
+The original version of the connector was designed for a US motherboard. It can be installed on a PAL machine but be careful, the connector for the numeric keypad may conflict with the keyboard adapter.
 ### status
 done, working.
 
