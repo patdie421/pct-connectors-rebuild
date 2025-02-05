@@ -231,7 +231,7 @@ IDC    DB9
 20
 </pre>
 ### usage
-The IDC connector is keyed (the cable is oriented towards the inside of the apple II). Just connect 3.5" Apple floppy drive (/!\ not unidisk or AE Transdrive) to DB19 connector.
+The IDC connector is keyed (the cable is oriented towards the inside of the apple II). Just connect 800ko 3.5" Apple floppy drive (/!\ do not connect 3.5" unidisk) or AE Transdrive) to DB19 connector.
 
 ### status
 done, working.
@@ -293,6 +293,26 @@ Molex  PS/2
 </pre>
 ### status
 done, test in progress.
+
+## Sound Connector
+One or two Simple two wires cable. Cheap female/female jumper wire can be used to connect motherboard J18 to PCT J1. If the speaker cable is long enough it can be connected directly to the J7 connector of the PCT card. If not a cheap female/male jumper wire can be used.
+
+### PCT Molex connector (J1 / J7)
+<pre>
+____
+|2||   Sound signal
+|1||   +5V
+----
+(front view)
+</pre>
+### Apple II speaker
+<pre>
+____
+|2||   Sound signal
+|1||   +5V
+----
+(front view)
+</pre>
 
 ## useful links
 PCT documentations and software  
