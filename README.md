@@ -231,7 +231,7 @@ IDC    DB9
 20
 </pre>
 ### usage
-[todo]
+The IDC connector is keyed. Just connect 3.5" Apple floppy drive (/!\ not unidisk or )
 
 ### status
 done, working.
