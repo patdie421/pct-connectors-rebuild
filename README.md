@@ -67,7 +67,7 @@ ____
 
 ### Video Cable
 <pre>
-Molex  PS/2
+Molex  Apple II connector
 1  -   1
 2  -   2
    -   3
