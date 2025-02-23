@@ -294,7 +294,7 @@ Molex  PS/2
        6
 </pre>
 ### status
-done, test in progress.
+work in progress, test in progress.
 
 ## Sound Connector
 One or two Simple two wires cable. Cheap female/female jumper wire can be used to connect motherboard J18 to PCT J1. If the speaker cable is long enough it can be connected directly to the J7 connector of the PCT card. If not, a cheap female/male jumper wire can be used.
