@@ -19,7 +19,7 @@ J1 - Apple II Speaker motherboard connector (INPUT)
 J2 - Composite video (OUTPUT)
 J3 - IIe keyboard adapter (INPUT)
 J4 - PC Transporter Disk drive (INPUT/OUTPUT)
-J5 - PC Compatible keyboard (XT/AT or PS/2) (INPUT)
+J5 - PC Compatible keyboard (XT protocol) (INPUT)
 J6 - ColorSwitch/CGA (OUTPUT)
 J7 - Apple II Speaker (OUTPUT)
 </pre>
