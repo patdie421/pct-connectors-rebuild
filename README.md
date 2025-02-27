@@ -307,6 +307,7 @@ ____
 ----
 (front view)
 </pre>
+
 ### Apple II speaker
 <pre>
 ____
