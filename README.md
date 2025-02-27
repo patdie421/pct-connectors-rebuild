@@ -257,6 +257,7 @@ This cable is based on a "PS2 extension cable for keyboard and mouse" (like http
 <p>
 /!\ An active protocol translator for using a ps/2 keyboard as an XT keyboard can be found here: https://github.com/asig/ps2-to-xt-adapter/tree/master. work in progress to integrate it on a small PCB directly pluggable onto the PCT card.
 </p>
+
 ### Molex connector
 <pre>
 ____
@@ -268,6 +269,7 @@ ____
 ----
 (cable connector - frond view)
 </pre>
+
 ### PS/2 Connector
 <pre>
     6  N  5
