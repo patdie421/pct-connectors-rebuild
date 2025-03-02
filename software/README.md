@@ -8,5 +8,8 @@ PCT204-msdos401us-v0.disk : hard drive disk image with PCT 2.04 configured with:
 VOL01_HDD01.po.zip : hard drive disk image with PCT 2.04 configured with:  
 - A: apple drive 3.5",  
 - C: 30MB Hard drive with MS-DOS 4.01 US (full install)
-  - toto
+  - Turbo C++ 1.0
+  - Turbo Pascal 5.5
+  - Wordstar 4
+  - Norton 5
 - D: PCT Drivers and tools
