@@ -253,7 +253,7 @@ done, working.
 
 ## PC Compatible keyboard
 <img src="images/IMG_3034.jpeg" height="200">
-This cable is based on a "PS2 extension cable for keyboard and mouse" (like https://amzn.eu/d/a3pizTv) cut approximately 50 cm after the female connector. An 5 pins JST connector (molex connector alternative) is connected to the cables. The female connector is glued into a 3D printed mounting enclosure that can be attached to one of the db25 cutouts on the back of the Apple IIe. This first version of the connector need an AT (PS/2) keyboard able to use the XT protocol. Not all AT keyboards are capable to use this protocol, rare older AT keyboards have automatic or manual switching capabilities from AT to XT protocol.
+This cable is based on a "PS2 extension cable for keyboard and mouse" (like https://amzn.eu/d/a3pizTv) cut approximately 50 cm after the female connector. An 5 pins JST connector (molex connector alternative) is connected to the cables. The female connector is glued into a 3D printed mounting enclosure that can be attached to one of the db25 cutouts on the back of the Apple IIe. This first version of the connector need an AT (PS/2) keyboard able to use the XT protocol. Not all AT keyboards are capable to use this protocol, rare older AT keyboards have automatic or manual switching capabilities from AT to XT protocol.  
 [enclosure stl](hardware/a2keyboardToPCT/V0.0/a2keyboardToPCT-enclosure.stl)
 <p>
 /!\ An active protocol translator for using a ps/2 keyboard as an XT keyboard can be found here: https://github.com/asig/ps2-to-xt-adapter/tree/master. Work is in progress to integrate it on a small PCB directly pluggable onto the PCT card (schematic validated, PCB designed, waiting for building).
