@@ -16,5 +16,6 @@ VOL01_HDD01.po : hard drive disk image with PCT 2.04 configured with:
   - Wordstar 4
   - Norton 5
 - D: PCT Drivers and tools
-(tested with DAN ][ - https://github.com/profdc9/Apple2Card)
+(tested with DAN ][ - https://github.com/profdc9/Apple2Card)  
 
+PCT software does not seem to work with A2Pico + a2retronet (https://github.com/oliverschmidt/a2retronet)
