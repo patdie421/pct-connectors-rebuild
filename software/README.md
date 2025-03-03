@@ -1,4 +1,4 @@
-pc_transporter_13_disks.zip (1.32) and pc_transporter_20_disk.zip (2.04) : original software for PCT Card  
+**pc_transporter_13_disks.zip** (1.32) and pc_transporter_20_disk.zip (2.04) : original software for PCT Card  
 
 AEPCHD.2img : hard drive disk image with PCT software (no dos hdd)  
 
