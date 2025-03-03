@@ -19,4 +19,6 @@
 - D: PCT Drivers and tools
 (tested with DAN ][ - https://github.com/profdc9/Apple2Card)  
 
+(coming soon) **PCT1402E.po** and **PCT140MSDOS.po** : image to boot PCT with only Apple II floppy drive.  
+
 PCT software does not seem to work with A2Pico + a2retronet (https://github.com/oliverschmidt/a2retronet)
