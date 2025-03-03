@@ -327,7 +327,7 @@ ____
 PCT documentations and software  
 https://ae.applearchives.com/all_apple_iis/pc_transporter/  
 
-Various PCT Pinouts and adaptaters  
+Various PCT Pinouts and adaptaters (but not exhaustive)  
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
 
 Pinouts, adapters and other resources  
