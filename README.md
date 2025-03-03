@@ -319,6 +319,10 @@ ____
 (front view)
 </pre>
 
+## as secondary drive in single 3.3" or 5.25 TransDrive
+3D printed enclosure, configuration and cables.  
+(coming soon)
+
 ## useful links
 PCT documentations and software  
 https://ae.applearchives.com/all_apple_iis/pc_transporter/  
