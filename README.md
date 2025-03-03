@@ -319,7 +319,7 @@ ____
 (front view)
 </pre>
 
-## GOTEK + flashfloppy as secondary drive in single 3.3" or 5.25" TransDrive
+## GOTEK + flashfloppy as secondary drive in single TransDrive
 3D printed enclosure, configuration and cables.  
 (coming soon)
 
