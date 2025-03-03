@@ -11,7 +11,7 @@
 **VOL01_HDD01.po**: hard drive disk image with PCT 2.04 configured with:  
 - A: transdrive 5.25" (drive 1),
 - B: apple drive 3.5" (drive 1),
-- C: 30MB Hard drive with MS-DOS 4.01 US (full install) with installed software :
+- C: 30MB Hard drive with MS-DOS 4.01 US (full install) with software :
   - Turbo C++ 1.0
   - Turbo Pascal 5.5
   - Wordstar 4
