@@ -9,8 +9,8 @@ PCT204-msdos401us-v0.disk : Apple II hard drive disk image with PCT 2.04 configu
 (tested with Apple SCSI Card + BlueScsi and LIRON Card + floppy Emu)
 
 VOL01_HDD01.po : hard drive disk image with PCT 2.04 configured with:  
-- A: transdrive 5.25",
-- B: apple drive 3.5",
+- A: transdrive 5.25" (drive 1),
+- B: apple drive 3.5" (drive 1),
 - C: 30MB Hard drive with MS-DOS 4.01 US (full install) with installed software :
   - Turbo C++ 1.0
   - Turbo Pascal 5.5
