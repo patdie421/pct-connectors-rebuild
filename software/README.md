@@ -1,3 +1,5 @@
+pc_transporter_13_disks.zip (1.32) and pc_transporter_20_disk.zip (2.04) : original software for PCT Card  
+
 AEPCHD.2img : hard drive disk image with PCT software (no dos hdd)  
 
 PCT204-msdos401us-v0.disk : hard drive disk image with PCT 2.04 configured with:  
