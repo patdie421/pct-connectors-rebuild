@@ -23,7 +23,7 @@ Top solution :
 - 1x Apple 3.5" floppy drive plugged to DB19 connector at the back of the Transdrive
 - 1x Real or emulated hard drive (32 Go)
 
-* Prebuild disk images
+# Prebuild disk images
 
 **pc_transporter_13_disks.zip** (1.32) and **pc_transporter_20_disk.zip** (2.04): original software for PCT Card  
 
