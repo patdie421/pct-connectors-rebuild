@@ -1,4 +1,4 @@
-To use the PCT in good conditions it is preferable to have a ProDos hard drive. This disk can be a real disk connected to the II+/IIe/IIgs by one or other of the period solutions (SCSI card + HDD, Apple Profile, etc.) or a modern solution (SmartPort Emulator). However, not all solutions are compatible (I have already identified a solution that did not work), do your own tests if necessary.  
+To use the PCT in good conditions it is preferable to have a ProDos hard drive. This disk can be a real disk connected to the II+/IIe/IIgs by one or other of the original solutions (SCSI card + HDD, Apple Profile, etc.) or a modern solution (SmartPort Emulator). However, not all solutions are compatible (I have already identified a solution that did not work), do your own tests if necessary.  
 
 minimum requirements to start MS-DOS with PCT :
 - 1x Apple II+ or IIe
