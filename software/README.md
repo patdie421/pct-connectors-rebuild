@@ -1,3 +1,24 @@
+To use the PCT in good conditions it is preferable to have a ProDos hard drive. This disk can be a real disk connected to the II+/IIe/IIgs by one or other of the period solutions (SCSI card + HDD, Apple Profile, etc.) or a modern solution (SmartPort Emulator). However, not all solutions are compatible (I have already identified a solution that did not work), do your own tests if necessary.  
+minimum requirements to start MS-DOS with PCT :
+- 1x Apple II+ or IIe
+- 1x 140ko floppy drive (real or emulated)
+- 1x external keyboard connector (II+) or PCT Keyboad adapter (IIe)
+minimal usable configuration :
+- 1x Apple II+, IIe or GS
+- 1x ProDOS bootable floppy drive (5.25" floppy drive is OK)
+- 1x Apple 3.5" floppy drive plugged to DB19 connector at the back of the PCT
+Optimal solution :
+- 1x Apple II+, IIe or GS
+- 1x ProDOS bootable floppy drive (5.25" floppy drive is OK)
+- 1x Apple 3.5" floppy drive plugged to DB19 connector at the back of the PCT
+- 1x Real or emulated hard drive (32 Go)
+Top solution :
+- 1x Apple II+, IIe or GS
+- 1x ProDOS bootable floppy drive (5.25" floppy drive is OK)
+- 1x Transdrive (3.5" or 5.25") plugged to DB19 connector at the back of the PCT
+- 1x Apple 3.5" floppy drive plugged to DB19 connector at the back of the Transdrive
+- 1x Real or emulated hard drive (32 Go)
+
 **pc_transporter_13_disks.zip** (1.32) and **pc_transporter_20_disk.zip** (2.04): original software for PCT Card  
 
 **AEPCHD.2img**: hard drive disk image with PCT software (no dos hdd)  
