@@ -38,7 +38,7 @@ Top solution :
   - Turbo Pascal 5.5
   - Wordstar 4
   - Norton 5
-- D: PCT Drivers and tools
+- D: PCT Drivers and tools  
 (tested with DAN ][ - [https://github.com/profdc9/Apple2Card](https://github.com/thorstenBr/Apple2Card))  
 
 (coming soon) **PCT140A2E.po** and **PCT140MSDOS33.po**: floppy disk image to boot PCT with only Apple II floppy drive / floppy Emu.  
