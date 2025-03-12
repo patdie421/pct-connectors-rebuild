@@ -28,6 +28,7 @@ Top solution :
 - A: apple drive 3.5",  
 - C: 20MB Hard drive with MS-DOS 4.01 US (full install), no other software installed
 - D: PCT Drivers and tools
+  
 (tested with Apple SCSI Card + BlueScsi and LIRON Card + floppy Emu)
 
 **VOL01_HDD01.po**: hard drive disk image with PCT 2.04 configured with:  
