@@ -5,7 +5,7 @@ minimum storage device requirements to start MS-DOS with PCT :
 
 minimal usable configuration :
 - 1x ProDOS bootable floppy drive (5.25" floppy drive is OK)
-- 1x Apple 3.5" floppy drive plugged to DB19 connector at the back of the PCT
+- 1x Apple 3.5" floppy drive (/!\ not Unidisk 3.5") plugged to DB19 connector at the back of the PCT
 
 Optimal solution :
 - 1x ProDOS bootable floppy drive (5.25" floppy drive is OK)
