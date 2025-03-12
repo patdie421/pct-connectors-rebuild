@@ -300,8 +300,8 @@ working (with XT/AT converter).
 3143
 
 <img src="images/IMG_3143.jpeg" height="200">
-<img src="images/IMG_3143.jpeg" height="200">
-<img src="images/IMG_3143.jpeg" height="200">
+<img src="images/IMG_3144.jpeg" height="200">
+<img src="images/IMG_3145.jpeg" height="200">
 
 ## Sound Connector
 One or two Simple two wires (dupont) cable. Cheap female/female jumper wire can be used to connect motherboard J18 to PCT J1. If the speaker cable is long enough it can be connected directly to the J7 connector of the PCT card. If not, a cheap female/male jumper wire can be used.
