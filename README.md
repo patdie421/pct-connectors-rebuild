@@ -296,7 +296,8 @@ Molex  PS/2
        6
 </pre>
 ### status
-working (with XT/AT converter)  
+Cable: done, working  
+XT/AT converter: done, working  
 <img src="images/IMG_3143.jpeg" height="200">
 <img src="images/IMG_3144.jpeg" height="200">
 <img src="images/IMG_3145.jpeg" height="200">
