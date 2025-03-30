@@ -351,5 +351,8 @@ https://www.applefritter.com/appleii-box/H070_AppleIITransDriveAdaptor.htm
 Pinouts of various Apple II, Apple IIe, Apple IIc, Apple IIgs and Apple Printers connectors  
 https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/hardware/misc/Apple%20II%20Family%20Pinouts.pdf  
 
+RGB TTL to RGB Analogic  
+https://downloads.reactivemicro.com/Apple%20II%20Items/Hardware/Apple_II_AppleColor_TTI_RGB/TheMarcorlandiModification_TTLRGB.pdf  
+
 For photos  
 https://www.applefritter.com/content/applied-engineering-pc-transporter-and-drives  
