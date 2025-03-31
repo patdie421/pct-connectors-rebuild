@@ -200,6 +200,7 @@ _____________
 9 : Audio out
 </pre>
 #### ColorSwitch DB15 female connector
+<pre>
 1 : GND
 2 : RED
 3 : CSYNC (2000 Ohms 4V +/- 1V)
@@ -215,6 +216,7 @@ _____________
 13 : GND
 14 : -
 15 : -
+</pre>
 #### BONUS : Chat Mauve DB9 to DB15 (A2M6014 compatible)
 DB9   DB15
 
