@@ -168,6 +168,21 @@ This card can also be used with an Apple 2e using an RGB color card (for EU user
 ### PCT to Colorswitch cable
 ### db15 to Colorswitch cable
 ### Chat Mauve to Colorswitch cable
+Several connection are possible. You can use internal (on cards) or external connector (throug db connectors)
+#### Chat Mauve IDC 8 pin connector
+<pre>
+  =================  
+  |1 2 3 4 5 6 7 8|  
+  -----------------  
+1 - RGB / Composite commutation 
+2 - (audio in)  
+3 - CSYNC (75 Ohms, 0.5V)  
+4 - RED (75 Ohms, 0 to 0.7V)  
+5 - GREEN (75 Ohms, 0 to 0.7V)  
+6 - BLUE (75 Ohms, 0 to 0.7V)  
+7 - GND  
+8 - 12V  
+</pre>
 ### Colorswitch to scart cable
 
 ## Storage connector  
