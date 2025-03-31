@@ -184,7 +184,7 @@ This card can also be used with an Apple 2e using an RGB color card (for EU user
 15 : -
 (*) : 75 Ohms, 1V +/- 0.5V peek-to-peek
 </pre>
-### IDC6 connector
+### ColorSwitch IDC6 connector
 <pre>
 1 : CSYNC
 2 : (composite)
