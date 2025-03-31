@@ -192,7 +192,7 @@ _____________
 1 : NC  
 2 : GND  
 3 : GREEN (75 Ohms, 0 to 0.7V)  
-4 : CSYNC (75 Ohms, 0.5V)  
+4 : CSYNC (negative, 75 Ohms, 0.5V)  
 5 : RGB/Composite commutation  
 6 : 12V
 7 : BLUE (75 Ohms, 0 to 0.7V)  
@@ -201,25 +201,37 @@ _____________
 </pre>
 #### ColorSwitch DB15 female connector
 <pre>
-1 : GND
-2 : RED
-3 : CSYNC (2000 Ohms 4V +/- 1V)
+1 : RED GND
+2 : RED(*)
+3 : CSYNC (negative, 2000 Ohms, 4V +/- 1V)
 4 : -
-5 : GREEN
-6 : GND
+5 : GREEN(*)
+6 : GREEN GND
 7 : -
 8 : -
-9 : BLUE
+9 : BLUE(*)
 10 : -
 11 : -
 12 : -
-13 : GND
+13 : BLUE GND
 14 : -
 15 : -
+(*) : 75 Ohms, 1V +/- 0.5V peek-to-peek
 </pre>
-#### BONUS : Chat Mauve DB9 to DB15 (A2M6014 compatible)
-DB9   DB15
-
+#### BONUS : Chat Mauve to A2M6014 compatible
+<pre>
+DB9    DB15      IDC8    DB15
+  1 --              1 --
+  2 -- 1,6,13       2 -- 
+  3 -- 5            3 -- 3
+  4 -- 3            4 -- 2
+  5 --              5 -- 5
+  6 --              6 -- 9
+  7 -- 9            7 -- 1,6,13
+  8 -- 2            8 --
+  9
+</pre>
+#### BONUS : Chat Mauve IDC to DB15 (A2M6014 compatible)
 ### Colorswitch to scart cable
 
 ## Storage connector  
