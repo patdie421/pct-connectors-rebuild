@@ -32,7 +32,7 @@ J7 - Apple II Speaker (OUTPUT)
 <p>figure 3: Apple IIe PAL motherboard</p>
 
 ![figure 4: Apple IIe (platinum) US motherboard](images/IMG_3042.jpeg)  
-<p>figure 4: Apple IIe US motherboard</p>
+<p>figure 4: Apple IIe (platinum) US motherboard</p>
 <pre>
 J13 (A14)                  - Composite video (INPUT/OUPUT)
 J17 (PAL:E/F15, US:B14)    - IIe keyboard adapter (INPUT)
