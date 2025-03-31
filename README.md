@@ -140,17 +140,17 @@ Pin  CGA Function
 
 ### Cable
 <pre>
-IDC    DB9  
-1  --  1  
-2  --  6  
-3      2  
-4      7  
-5  --  3  
-6  --  8  
-7  --  4  
-8  --  9  
-9  --  5  
-10  
+IDC      DB9  
+  1  --  1  
+  2  --  6  
+  3      2  
+  4      7  
+  5  --  3  
+  6  --  8  
+  7  --  4  
+  8  --  9  
+  9  --  5  
+  10  
 </pre>
 Do not connect 3 and 4 IDC pins. Cut strands 3 and 4 of the ribbon cable (see photo).  
 ### usage
