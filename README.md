@@ -195,9 +195,9 @@ This card can also be used with an Apple 2e using an RGB color card (for EU user
 6 : GND
 </pre>
 ### PCT to Colorswitch cable
-### db15 to Colorswitch cable
+### db15 to Colorswitch cable (for Apple IIGS)
 ### Chat Mauve to Colorswitch cable
-Several connection are possible. You can use internal (on card) or external connector (throug db connectors)
+Several connection are possible. You can use internal (on card) or external connector (throug db connectors).
 #### Chat Mauve on card IDC8 connector
 <pre>
   =================  
@@ -228,7 +228,7 @@ _____________
 8 : RED (75 Ohms, 0 to 0.7V)  
 9 : Audio out
 </pre>
-#### BONUS : Chat Mauve to A2M6014 compatible
+#### BONUS 1 : Chat Mauve to A2M6014 compatible
 <pre>
 DB9    DB15      IDC8    DB15
   1 --              1 --
@@ -241,7 +241,7 @@ DB9    DB15      IDC8    DB15
   8 -- 2            8 --
   9
 </pre>
-### BONUS : Colorswitch to scart cable
+### BONUS 2 : Colorswitch to scart cable
 
 ## Storage connector  
 <img src="images/IMG_2981.jpeg" height="200">
