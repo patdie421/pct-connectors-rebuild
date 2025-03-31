@@ -169,13 +169,13 @@ This card can also be used with an Apple 2e using an RGB color card (for EU user
 ### db15 to Colorswitch cable
 ### Chat Mauve to Colorswitch cable
 Several connection are possible. You can use internal (on cards) or external connector (throug db connectors)
-#### Chat Mauve IDC 8 pin connector
+#### Chat Mauve IDC 8 connector
 <pre>
   =================  
   |1 2 3 4 5 6 7 8|  
   -----------------  
-1 - RGB / Composite commutation 
-2 - (audio in)  
+1 - RGB/Composite commutation 
+2 - Audio out  
 3 - CSYNC (75 Ohms, 0.5V)  
 4 - RED (75 Ohms, 0 to 0.7V)  
 5 - GREEN (75 Ohms, 0 to 0.7V)  
@@ -183,6 +183,41 @@ Several connection are possible. You can use internal (on cards) or external con
 7 - GND  
 8 - 12V  
 </pre>
+#### Chat Mauve DB9 female connector
+<pre>
+_____________  
+\ 5 4 3 2 1 /  
+ \ 9 8 7 6 /  
+  ---------  
+1 : NC  
+2 : GND  
+3 : GREEN (75 Ohms, 0 to 0.7V)  
+4 : CSYNC (75 Ohms, 0.5V)  
+5 : RGB/Composite commutation  
+6 : 12V
+7 : BLUE (75 Ohms, 0 to 0.7V)  
+8 : RED (75 Ohms, 0 to 0.7V)  
+9 : Audio out
+</pre>
+#### ColorSwitch DB15 female connector
+1 : GND
+2 : RED
+3 : CSYNC (2000 Ohms 4V +/- 1V)
+4 : -
+5 : GREEN
+6 : GND
+7 : -
+8 : -
+9 : BLUE
+10 : -
+11 : -
+12 : -
+13 : GND
+14 : -
+15 : -
+#### BONUS : Chat Mauve DB9 to DB15 (A2M6014 compatible)
+DB9   DB15
+
 ### Colorswitch to scart cable
 
 ## Storage connector  
