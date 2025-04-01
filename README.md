@@ -165,7 +165,8 @@ done, working.
 The ColorSwitch was designed to allow a PCT-equipped Apple IIGS to display CGA on a standard A2M6014 monitor or a RGB monitor. When the PCT software is launched, the display automatically switches Apple screen to CGA screen.
 This card can also be used with an Apple 2e using an RGB color card (for EU users, Chat Mauve card is a must for that)
 ### PCB
-(coming soon)
+Not tested now design is available in "hardware" folder.  
+The design is different from the original device. Buggy unused composite video signal circuit was removed.  
 #### ColorSwitch DB15 female connector
 <pre>
 1 : RED GND
