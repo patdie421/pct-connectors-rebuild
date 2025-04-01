@@ -244,6 +244,9 @@ DB9    DB15      IDC8    DB15
 </pre>
 ### BONUS 2 : Colorswitch to scart cable
 
+### Status
+work in progress  
+
 ## Storage connector  
 <img src="images/IMG_2981.jpeg" height="200">
 
