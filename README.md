@@ -103,12 +103,12 @@ ____________________
   
 1 GND
 2 Intensity
-3 (NC for CGA / )
-4 (NC for CGA)
+3 NC for CGA - Source selection for Colorswitch (PCT output signal on CGA/Composite)
+4 NC for CGA - CSync for Colorswitch
 5 Red
-6 HS
+6 HS for CGA - NC for Colorswitch
 7 Green
-8 VS
+8 VS for CGA - NC for Colorswitch
 9 Bleu
 10 -
 </pre>
@@ -205,6 +205,18 @@ This design differs from the original device. The implementation density of comp
 6 : GND
 </pre>
 ### PCT to Colorswitch cable
+flat cable with 2 idc10 male connector.  
+ 1 -- 1
+ 2 -- 2
+ 3 -- 3
+ 4 -- 4
+ 5 -- 5
+ 6 -- 6
+ 7 -- 7
+ 8 -- 8
+ 9 -- 9
+10 -- 10
+(photo)  
 ### db15 to Colorswitch cable (for Apple IIGS)
 ### Chat Mauve to Colorswitch cable
 Several connection are possible. You can use internal (on card) or external connector (throug db connectors).
