@@ -173,7 +173,7 @@ This card can also be used with an Apple 2e using an RGB color card (for EU user
 
 ### PCB
 A not tested design is available in "hardware" folder.  
-This design differs from the original device. The faulty and unused composite video signal circuit has been removed.  
+This design differs from the original device. The implementation density of components is reduced (easier to solder) and the faulty and unused (useless) composite video signal circuit has been removed.  
 <img src="hardware/colorswitch/v1.0/colorswitch.png" width="300">
 #### ColorSwitch DB15 female connector
 <pre>
