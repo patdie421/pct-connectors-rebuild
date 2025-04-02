@@ -206,16 +206,19 @@ This design differs from the original device. The implementation density of comp
 </pre>
 ### PCT to Colorswitch cable
 flat cable with 2 idc10 male connector.  
- 1 -- 1
- 2 -- 2
- 3 -- 3
- 4 -- 4
- 5 -- 5
- 6 -- 6
- 7 -- 7
- 8 -- 8
- 9 -- 9
-10 -- 10
+<pre>
+IDC10  IDC10  
+   1 -- 1
+   2 -- 2
+   3 -- 3
+   4 -- 4
+   5 -- 5
+   6 -- 6
+   7 -- 7
+   8 -- 8
+   9 -- 9
+  10 -- 10
+</pre>
 (photo)  
 ### db15 to Colorswitch cable (for Apple IIGS)
 ### Chat Mauve to Colorswitch cable
