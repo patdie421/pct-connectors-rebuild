@@ -103,7 +103,7 @@ ____________________
   
 1 GND
 2 Intensity
-3 (NC for CGA)
+3 (NC for CGA / )
 4 (NC for CGA)
 5 Red
 6 HS
