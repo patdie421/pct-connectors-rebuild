@@ -170,6 +170,7 @@ This card can also be used with an Apple 2e using an RGB color card (for EU user
 <div>
 <img src="images/colorswitch_med.jpeg" width="300">
 </div>
+
 ### PCB
 A not tested design is available in "hardware" folder.  
 This design differs from the original device. The faulty and unused composite video signal circuit has been removed.  
