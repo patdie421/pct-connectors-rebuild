@@ -162,7 +162,7 @@ You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://gi
 done, working.
 
 ## Colorswitch
-The ColorSwitch was designed to allow a PCT-equipped Apple IIGS to display CGA on a standard A2M6014 monitor or a compatible RGB monitor. When the PCT software is launched, the display automatically switches Apple screen to CGA screen.
+The ColorSwitch was designed to allow a PCT-equipped Apple IIGS to display CGA on a standard A2M6014 monitor or a compatible RGB monitor (ex: Sony RGB Monitor, cf AE catalog). When the PCT software is launched, the display automatically switches Apple screen to CGA screen.
 This card can also be used with an Apple 2e using an RGB color card (for EU users, Chat Mauve card is a must for that)  
 <img src="images/IMG_3182.jpeg" width="300">
 ### PCB
