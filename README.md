@@ -222,6 +222,7 @@ IDC10  IDC10
 <div>
 (photo)   
 </div>
+
 ### db15 to Colorswitch cable (for Apple IIGS)
 ### Chat Mauve to Colorswitch cable
 Several connection are possible. You can use internal (on card) or external connector (throug db connectors).
