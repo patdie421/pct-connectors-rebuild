@@ -444,6 +444,9 @@ https://github.com/keirf/flashfloppy
 PCT documentations and software  
 https://ae.applearchives.com/all_apple_iis/pc_transporter/  
 
+French PCT documentation  
+http://www.apple-iigs.info/doc/fichiers/Brejoux_PC_Transporter%202.pdf  
+
 Various PCT Pinouts and adaptaters (but not exhaustive)  
 https://www.applefritter.com/appleii-box/harrowalsh.de/APPLEBOX/APPLE2/Manuals/AE%20PC%20Transporter%20ComponentsPinouts.pdf  
 
