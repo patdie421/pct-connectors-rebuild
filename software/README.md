@@ -17,7 +17,7 @@ Top solution :
 - 1x ProDOS bootable floppy drive (5.25" floppy drive is OK)
 - 1x Transdrive (1x or 2x 5.25") plugged to DB19 connector at the back of the PCT
 - 1x Apple 3.5" floppy drive plugged to DB19 connector at the back of the Transdrive
-- 1x real or emulated hard drive (32 Go or 2x32 Go)
+- 1x real or emulated hard drive (On or two 32 Go partitions)
 
 # Prebuild disk images
 
