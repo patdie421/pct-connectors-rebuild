@@ -1,2 +1,2 @@
 PCB Kicad and Gerber files.  
-FreeCad (a2keyboardToPCT.FCStd) and STL (a2keyboardToPCT-enclosure.stl) for 3D Printing enclosure for Apple IIe db25 cutout.
+FreeCad (a2keyboardToPCT-db25.FCStd) and STL (a2keyboardToPCT-db25.stl) for 3D Printing enclosure for Apple IIe db25 cutout.  
