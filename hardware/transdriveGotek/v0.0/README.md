@@ -1,3 +1,3 @@
-![figure 1: PC Transporter rev D](../../../images/IMG_3166.jpeg)  
+<img src="../../../images/IMG_3166.jpeg" width="300">  
 Gotek mounting kit for transdrive 5.25 bay.  
 Gotek with oled display.  
