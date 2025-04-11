@@ -175,7 +175,8 @@ This card can also be used with an Apple 2e using an RGB color card (for EU user
 A not tested design is available in "hardware" folder.  
 This design differs from the original device. The implementation density of components is reduced (easier to solder) and the faulty and unused/useless* composite video signal circuit has been removed.  
 (*) would have been useful with a specific monitor able to display RGB and composite. Could be add in a futur version.   
-<img src="hardware/colorswitch/v0.0/colorswitch.png" width="300">
+<div><img src="hardware/colorswitch/v0.0/colorswitch.png" width="300"></div>div>
+<div><img src="images/IMG_3200.jpeg" width="300"></div>div>
 #### ColorSwitch DB15 female connector
 <pre>
 1 : RED GND
