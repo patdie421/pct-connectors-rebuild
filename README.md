@@ -456,7 +456,11 @@ ____
 </pre>
 
 ## GOTEK + flashfloppy as secondary drive in single TransDrive
-3D printed enclosure, configuration and cables.  
+3D printed enclosure, configuration and cables.
+
+### Enclosure
+[Gotek enclosure](hardware/transdriveGotek/v0.0)
+
 https://github.com/keirf/flashfloppy  
 (coming soon)
 
