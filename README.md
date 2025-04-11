@@ -178,7 +178,7 @@ This design differs from the original device. The implementation density of comp
 <div><img src="hardware/colorswitch/v0.0/colorswitch.png" width="300"></div>
 <div>
    <p><img src="images/IMG_3200.jpeg" width="300"></p>
-   original Colorswitch vs rebuild one with DB25 mounting braket
+   Rebuild Colorswitch with DB25 mounting braket vs original 
 </div>
 
 #### ColorSwitch DB15 female connector
