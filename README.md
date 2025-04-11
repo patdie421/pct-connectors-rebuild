@@ -261,6 +261,7 @@ _____________
 8 : RED (75 Ohms, 0 to 0.7V)  
 9 : Audio out
 </pre>
+
 #### BONUS 1 : Chat Mauve to A2M6014 compatible
 <pre>
 DB9    DB15      IDC8    DB15
@@ -274,6 +275,7 @@ DB9    DB15      IDC8    DB15
   8 -- 2            8 --
   9
 </pre>
+
 ### BONUS 2 : Colorswitch to scart cable
 
 ### Status
