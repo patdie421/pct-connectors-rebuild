@@ -164,22 +164,22 @@ done, working.
 ## Colorswitch
 The ColorSwitch was designed to allow a PCT-equipped Apple IIGS to display CGA on a standard A2M6014 monitor or a compatible RGB monitor (ex: Sony RGB Monitor, cf AE catalog). When the PCT software is launched, the display automatically switches Apple screen to CGA screen.
 This card can also be used with an Apple 2e using an RGB color card (for EU users, Chat Mauve card is a must for that)  
-
 <div>
 <img src="images/IMG_3182.jpeg" width="300">
 </div>
-
 <div>
 <img src="images/colorswitch_med.jpeg" width="300">
-original Colorswitch vs rebuild one
 </div>
 
 ### PCB
 A not tested design is available in "hardware" folder.  
 This design differs from the original device. The implementation density of components is reduced (easier to solder) and the faulty and unused/useless* composite video signal circuit has been removed.  
 (*) would have been useful with a specific monitor able to display RGB and composite. Could be add in a futur version.   
-<div><img src="hardware/colorswitch/v0.0/colorswitch.png" width="300"></div>div>
-<div><img src="images/IMG_3200.jpeg" width="300"></div>div>
+<div><img src="hardware/colorswitch/v0.0/colorswitch.png" width="300"></div>
+<div>
+   <p><img src="images/IMG_3200.jpeg" width="300"></p>
+   original Colorswitch vs rebuild one
+</div>
 #### ColorSwitch DB15 female connector
 <pre>
 1 : RED GND
