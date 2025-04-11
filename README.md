@@ -282,6 +282,14 @@ DB9    DB15      IDC8    DB15
 </pre>
 
 ### BONUS 2 : Colorswitch to scart cable
+(to do)
+
+### BONUS 3 : Chat Mauve Féline not documented and not populated IDC10
+(to do)
+
+### BONUS 4 : Chat Mauve TTL connector to rgbtohdmi
+(to do)
+
 
 ### Status
 work in progress  
