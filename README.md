@@ -461,8 +461,11 @@ ____
 ### Enclosure
 [Gotek enclosure](hardware/transdriveGotek/v0.0)
 
+### Configuration
 https://github.com/keirf/flashfloppy  
-(coming soon)
+
+### Cables
+(to do)
 
 ## useful links
 PCT documentations and software  
