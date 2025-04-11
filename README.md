@@ -459,8 +459,8 @@ ____
 3D printed enclosure, configuration and cables.
 
 ### Enclosure
-<p><img src="images/IMG_3166.jpeg" width="300"></p>  
-
+<div><img src="images/IMG_3164.jpeg" width="300"></div>
+<div><img src="images/IMG_3166.jpeg" width="300"></div>  
 [Gotek enclosure with oled sceen](hardware/transdriveGotek/v0.0)
 
 ### Configuration
