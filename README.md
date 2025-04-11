@@ -468,6 +468,7 @@ ____
 https://github.com/keirf/flashfloppy  
 
 ### Cables
+The cable provided with the TransDrive isn't long enough to connect the Gotek. You need to find (or build) an other cable.  
 (to do)
 
 ## useful links
