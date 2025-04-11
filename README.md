@@ -461,7 +461,7 @@ ____
 ### Enclosure
 <p><img src="images/IMG_3166.jpeg" width="300"></p>  
 
-[Gotek enclosure](hardware/transdriveGotek/v0.0)
+[Gotek enclosure with oled sceen](hardware/transdriveGotek/v0.0)
 
 ### Configuration
 https://github.com/keirf/flashfloppy  
