@@ -180,6 +180,7 @@ This design differs from the original device. The implementation density of comp
    <p><img src="images/IMG_3200.jpeg" width="300"></p>
    original Colorswitch vs rebuild one
 </div>
+
 #### ColorSwitch DB15 female connector
 <pre>
 1 : RED GND
