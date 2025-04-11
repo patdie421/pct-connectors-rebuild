@@ -200,6 +200,7 @@ This design differs from the original device. The implementation density of comp
 15 : -
 (*) : 75 Ohms, 1V +/- 0.5V peek-to-peek
 </pre>
+
 ### ColorSwitch IDC6 connector
 <pre>
 1 : CSYNC
@@ -209,6 +210,7 @@ This design differs from the original device. The implementation density of comp
 5 : BLUE
 6 : GND
 </pre>
+
 ### PCT to Colorswitch cable
 flat cable with 2 idc10 male connector.  
 <pre>
@@ -229,8 +231,11 @@ IDC10  IDC10
 </div>
 
 ### db15 to Colorswitch cable (for Apple IIGS)
+(to do)
+
 ### Chat Mauve to Colorswitch cable
 Several connection are possible. You can use internal (on card) or external connector (throug db connectors).
+
 #### Chat Mauve on card IDC8 connector
 <pre>
   =================  
@@ -262,7 +267,7 @@ _____________
 9 : Audio out
 </pre>
 
-#### BONUS 1 : Chat Mauve to A2M6014 compatible
+### BONUS 1 : Chat Mauve to A2M6014 compatible
 <pre>
 DB9    DB15      IDC8    DB15
   1 --              1 --
