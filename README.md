@@ -459,7 +459,8 @@ ____
 3D printed enclosure, configuration and cables.
 
 ### Enclosure
-<p><img src="images/IMG_3166.jpeg" width="300"></p>
+<p><img src="images/IMG_3166.jpeg" width="300"></p>  
+
 [Gotek enclosure](hardware/transdriveGotek/v0.0)
 
 ### Configuration
