@@ -172,7 +172,7 @@ This card can also be used with an Apple 2e using an RGB color card (for EU user
 </div>
 
 ### PCB
-A not tested design is available in "hardware" folder.  
+A design is available in "hardware" folder (v0.0 is buggy, v0.2 should work).  
 This design differs from the original device. The implementation density of components is reduced (easier to solder) and the faulty and unused/useless* composite video signal circuit has been removed.  
 (*) would have been useful with a specific monitor able to display RGB and composite. Could be add in a futur version.   
 <div>
