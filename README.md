@@ -291,7 +291,8 @@ DB9    DB15      IDC8    DB15
 
 
 ### Status
-work in progress  
+v0.0 : partialy working, color inversion but pcb OK  
+v0.2 : work in progress (pcb fabrication)  
 
 ## Storage connector  
 <img src="images/IMG_2981.jpeg" height="200">
