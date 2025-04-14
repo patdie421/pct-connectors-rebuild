@@ -1,1 +1,2 @@
 Bug correction.
+Schema simplification.
