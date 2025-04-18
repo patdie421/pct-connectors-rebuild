@@ -139,7 +139,6 @@ Pin  CGA Function
 </pre>
 
 ### Cable
-(photo)
 <pre>
 IDC      DB9  
   1  --  1  
