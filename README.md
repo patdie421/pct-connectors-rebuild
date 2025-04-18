@@ -139,12 +139,13 @@ Pin  CGA Function
 </pre>
 
 ### Cable
+(photo)
 <pre>
 IDC      DB9  
   1  --  1  
   2  --  6  
-  3      2  
-  4      7  
+  3  xx  2  
+  4  xx  7  
   5  --  3  
   6  --  8  
   7  --  4  
@@ -212,6 +213,7 @@ This design differs from the original device. The implementation density of comp
 
 ### PCT to Colorswitch cable
 flat cable with 2 idc10 male connector.  
+(photo)
 <pre>
 IDC10  IDC10  
    1 -- 1
@@ -226,22 +228,20 @@ IDC10  IDC10
   10 -- 10
 </pre>
 flat cable with 2 idc10 male and 1 db9 male connector. To use for double monitor connection.  
+(photo)
 <pre>
 IDC10  IDC10   DB9  
-  1  --  1  --  1  
-  2  --  2  --  6  
-  3  --  3  --  2  
-  4  --  4  --  7  
-  5  --  5  --  3  
-  6  --  6  --  8  
-  7  --  7  --  4  
-  8  --  8  --  9  
-  9  --  9  --  5  
+  1  --  1  --  1
+  2  --  2  --  6
+  3  --  3  xx  2
+  4  --  4  xx  7
+  5  --  5  --  3
+  6  --  6  --  8
+  7  --  7  --  4
+  8  --  8  --  9
+  9  --  9  --  5
   10 -- 10
 </pre>
-<div>
-(photo)   
-</div>
 
 ### db15 to Colorswitch cable (for Apple IIGS)
 (to do)
@@ -251,6 +251,7 @@ Several connection are possible. You can use internal (on card) or external conn
 
 #### Chat Mauve on card IDC8 connector
 <pre>
+  (card connector)  
   =================  
   |1 2 3 4 5 6 7 8|  
   -----------------  
@@ -262,6 +263,23 @@ Several connection are possible. You can use internal (on card) or external conn
 6 - BLUE (75 Ohms, 0 to 0.7V)
 7 - GND
 8 - 12V
+</pre>
+#### BONUS 1 : Chat Mauve Féline on card IDC10 connector (connector need to be soldered)
+<pre>
+  (card connector) 
+  ---------------
+  |1  2  3  4  5|
+  |6  7  8  9 10|
+  ---------------  
+1 -
+2 -
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+9 -
 </pre>
 #### Chat Mauve DB9 female connector
 <pre>
@@ -280,29 +298,26 @@ _____________
 9 : Audio out
 </pre>
 
-### BONUS 1 : Chat Mauve to A2M6014 compatible
+### BONUS 2 : Chat Mauve to A2M6014 compatible
 <pre>
-DB9    DB15      IDC8    DB15
-  1 --              1 --
-  2 -- 1,6,13       2 -- 
-  3 -- 5            3 -- 3
-  4 -- 3            4 -- 2
-  5 --              5 -- 5
-  6 --              6 -- 9
-  7 -- 9            7 -- 1,6,13
-  8 -- 2            8 --
-  9
+DB9    DB15      IDC8    DB15     IDC10*  DB15
+  1 --              1 --             1  --  
+  2 -- 1,6,13       2 --             2  --  
+  3 -- 5            3 -- 3           3  --  
+  4 -- 3            4 -- 2           4  --  
+  5 --              5 -- 5           5  --  
+  6 --              6 -- 9           6  --  
+  7 -- 9            7 -- 1,6,13      7  --  
+  8 -- 2            8 --             8  --  
+  9                                  9  --  
+                                    10  --  
 </pre>
 
-### BONUS 2 : Colorswitch to scart cable
-(to do)
-
-### BONUS 3 : Chat Mauve Féline not documented and not populated IDC10
-(to do)
+### BONUS 3 : Colorswitch to scart cable
+(to do)  
 
 ### BONUS 4 : Chat Mauve TTL connector to rgbtohdmi
-(to do)
-
+(to do)  
 
 ### Status
 v0.0 : partially working, color inversion but pcb OK  
