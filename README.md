@@ -225,6 +225,20 @@ IDC10  IDC10
    9 -- 9
   10 -- 10
 </pre>
+flat cable with 2 idc10 male and 1 db9 male connector. To use for double monitor connection.  
+<pre>
+IDC10  IDC10   DB9  
+  1  --  1  --  1  
+  2  --  2  --  6  
+  3  --  3  --  2  
+  4  --  4  --  7  
+  5  --  5  --  3  
+  6  --  6  --  8  
+  7  --  7  --  4  
+  8  --  8  --  9  
+  9  --  9  --  5  
+  10 -- 10
+</pre>
 <div>
 (photo)   
 </div>
