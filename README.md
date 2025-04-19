@@ -177,7 +177,7 @@ This design differs from the original device. The implementation density of comp
 (*) would have been useful with a specific monitor able to display RGB and composite. Could be add in a futur version.   
 <div>
    <p><img src="images/IMG_3200.jpeg" width="300"></p>
-   Rebuilt Colorswitch (untested) with DB25 mounting bracket compared to original 
+   Rebuilt Colorswitch (v0.0) with DB25 mounting bracket compared to original 
 </div>
 
 #### ColorSwitch DB15 female connector
