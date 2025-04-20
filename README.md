@@ -250,18 +250,14 @@ IDC10  IDC10   DB9
  |1  3  5  7  9 11 13 15 17 19 |
  | 2  4  6  8  10 12 14 16 18 20\
   -------------------------------
-1
-3
-5 RGB Ground Blue
-7 RGB Blue In
-9 RGB Ground Green
-11 RGB Green In
-13 RGB Ground Red
-15 RGB Red In
-16 Csync
-
-
-
+5  - RGB Ground Blue
+7  - RGB Blue In
+9  - RGB Ground Green
+11 - RGB Green In
+13 - RGB Ground Red
+15 - RGB Red In
+16 - Fast Blanking (CSYNC)
+18 - Fast Blanking Ground (CSYNC GND)
 </pre>
 (to do)
 
