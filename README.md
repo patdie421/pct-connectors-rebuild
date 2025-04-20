@@ -212,7 +212,9 @@ This design differs from the original device. The implementation density of comp
 
 ### PCT to Colorswitch cable
 flat cable with 2 idc10 male connector.  
-(photo)
+<div>
+   <p><img src="images/IMG_3200.jpeg" width="300"></p>
+</div>
 <pre>
 IDC10  IDC10  
    1 -- 1
