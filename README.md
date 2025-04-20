@@ -300,7 +300,7 @@ _____________
 9 : Audio out
 </pre>
 
-### BONUS 2 : Chat Mauve to A2M6014 compatible
+### BONUS 2 : Chat Mauve to A2M6014 compatible monitor
 <pre>
 DB9    DB15      IDC8    DB15     IDC10*  DB15
   1 --              1 --             1  --  
