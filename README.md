@@ -267,18 +267,19 @@ Several connection are possible. You can use internal (on card) or external conn
 <pre>
   (card connector) 
   ---------------
-  |1  2  3  4  5|
-  |6  7  8  9 10|
+  |2  4  6  8 10|
+  |1  3  5  7  9|
   ---------------  
-1 -
-2 -
-3 -
-4 -
-5 -
-6 -
-7 -
-8 -
-9 -
+ 1 - NC
+ 2 - 
+ 3 - GND
+ 4 - Blue
+ 5 - Green
+ 6 - Red
+ 7 - CSync
+ 8 - Audio
+ 9 - NC
+10 - NC
 </pre>
 #### Chat Mauve DB9 female connector
 <pre>
