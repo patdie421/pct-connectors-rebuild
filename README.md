@@ -245,8 +245,13 @@ IDC10  IDC10   DB9
 </pre>
 
 ### db15 to Colorswitch cable (for Apple IIGS)
-   1  3  5  7  9 11 13 15 17 19
-    2  4  
+<pre>
+  _____________________________
+ |1  3  5  7  9 11 13 15 17 19 \
+ | 2  4  6  8  10 12 14 16 18 20\
+  -------------------------------
+
+</pre>
 (to do)
 
 ### Chat Mauve to Colorswitch cable
