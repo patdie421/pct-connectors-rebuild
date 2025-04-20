@@ -316,7 +316,7 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
                                     10  --  
 </pre>
 
-### BONUS 3 : Colorswitch to scart cable
+### BONUS 3 : Colorswitch (or 2gs) to scart cable
 #### Scart pinout (wire side view)
 <pre>
   _____________________________
@@ -335,7 +335,26 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 20 - Composite Video In (CSYNC)
 (Only needed pins are listed)
 </pre>
-(to do)  
+
+#### cable
+<pre>
+   DB15 (male)   scart (male)
+   1,6,13    --- 5,9,13,17,18
+   2         --- 15
+   3         -*- 20
+   4
+   5         --- 11
+   7
+   8         -o- 8
+   9         --- 7
+   10
+   11
+   12
+   14
+   15
+(-*-) : direct wire or 190 Ohms resistor
+(-o-) optional : to use the cable with the 2gs db15 connector add a 390 Ohms resistor
+</pre>
 
 ### BONUS 4 : Chat Mauve TTL connector to rgbtohdmi
 (to do)  
