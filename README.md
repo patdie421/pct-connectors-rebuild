@@ -183,21 +183,20 @@ This design differs from the original device. The implementation density of comp
 #### ColorSwitch DB15 female connector
 <pre>
 1 : RED GND
-2 : RED(*)
-3 : CSYNC (negative, 2000 Ohms, 4V +/- 1V)
+2 : RED
+3 : CSYNC
 4 : -
-5 : GREEN(*)
+5 : GREEN
 6 : GREEN GND
 7 : -
 8 : -
-9 : BLUE(*)
+9 : BLUE
 10 : -
 11 : -
 12 : -
 13 : BLUE GND
 14 : -
 15 : -
-(*) : 75 Ohms, 1V +/- 0.5V peek-to-peek
 </pre>
 
 ### ColorSwitch IDC6 connector
