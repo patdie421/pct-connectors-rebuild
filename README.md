@@ -252,7 +252,15 @@ IDC10  IDC10   DB9
   -------------------------------
 1
 3
-5
+5 RGB Ground Blue
+7 RGB Blue In
+9 RGB Ground Green
+11 RGB Green In
+13 RGB Ground Red
+15 RGB Red In
+16 Csync
+
+
 
 </pre>
 (to do)
