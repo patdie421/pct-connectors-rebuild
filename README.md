@@ -245,20 +245,7 @@ IDC10  IDC10   DB9
 </pre>
 
 ### db15 to Colorswitch cable (for Apple IIGS)
-<pre>
-  _____________________________
- |1  3  5  7  9 11 13 15 17 19 |
- | 2  4  6  8  10 12 14 16 18 20\
-  -------------------------------
-5  - RGB Ground Blue
-7  - RGB Blue In
-9  - RGB Ground Green
-11 - RGB Green In
-13 - RGB Ground Red
-15 - RGB Red In
-16 - Fast Blanking (CSYNC)
-18 - Fast Blanking Ground (CSYNC GND)
-</pre>
+
 (to do)
 
 ### Chat Mauve to Colorswitch cable
@@ -330,7 +317,24 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 </pre>
 
 ### BONUS 3 : Colorswitch to scart cable
- 
+#### Scart pinout (wire side view)
+<pre>
+  _____________________________
+ |1  3  5  7  9 11 13 15 17 19 |
+ | 2  4  6  8  10 12 14 16 18 20\
+  -------------------------------
+5  - RGB Ground Blue
+7  - RGB Blue In
+9  - RGB Ground Green
+11 - RGB Green In
+13 - RGB Ground Red
+15 - RGB Red In 
+16 - Blanking Signal  
+17 - Ground Composite Video
+18 - Ground Blanking Signal
+20 - Composite Video In (CSYNC)
+(Only needed pins are listed)
+</pre>
 (to do)  
 
 ### BONUS 4 : Chat Mauve TTL connector to rgbtohdmi
