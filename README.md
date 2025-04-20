@@ -271,7 +271,7 @@ Several connection are possible. You can use internal (on card) or external conn
   |1  3  5  7  9|
   ---------------  
  1 - NC
- 2 - 
+ 2 - 12v
  3 - GND
  4 - Blue
  5 - Green
