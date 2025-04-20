@@ -245,6 +245,8 @@ IDC10  IDC10   DB9
 </pre>
 
 ### db15 to Colorswitch cable (for Apple IIGS)
+   1  3  5  7  9 11 13 15 17 19
+    2  4  
 (to do)
 
 ### Chat Mauve to Colorswitch cable
@@ -316,6 +318,7 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 </pre>
 
 ### BONUS 3 : Colorswitch to scart cable
+ 
 (to do)  
 
 ### BONUS 4 : Chat Mauve TTL connector to rgbtohdmi
