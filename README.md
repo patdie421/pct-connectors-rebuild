@@ -524,5 +524,8 @@ https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/hardware/misc/A
 RGB TTL to RGB Analogic  
 https://downloads.reactivemicro.com/Apple%20II%20Items/Hardware/Apple_II_AppleColor_TTI_RGB/TheMarcorlandiModification_TTLRGB.pdf  
 
+Apple 2GS to SCART (for ColorSwitch to SCART)  
+https://www.brutaldeluxe.fr/documentation/cortland/v3_03_Schematics.pdf  
+
 For photos  
 https://www.applefritter.com/content/applied-engineering-pc-transporter-and-drives  
