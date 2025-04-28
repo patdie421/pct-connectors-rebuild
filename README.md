@@ -44,18 +44,19 @@ Note the different spacing between the keyboard connector (J17) and the numeric 
 
 ### PCT Installation Kit contents
 AE provided 2 installation kits to use the card with Apple IIe or Apple IIgs.  
-For Apple II+, cable were indivitualy solded.
 
 #### IIgs installation kit
 - ColorSwitch  
 - Drive cable  
-#### IIe installation kit
+#### II+/IIe installation kit
 - Drive cable  
-- Keboard cable  
+- Keyboard cable  
 - video cable  
 - speaker cable  
-#### Cable needed for Apple II/II+
-- 
+Apple II+, need an aditional cable for connecting a PC/XT keyboard (kit keyboard cable is inusable for II+).  
+#### Cables needed for Apple II+
+- IBM Keyboard Cable  
+
 ## Video Composite output (video cable)
 Simple two wires cable. Cheap female/female jumper wire can be used.
 PCT Card outputs an NTSC composite video signal on J2. PAL motherboards can nevertheless be wired to this Molex connector, but the monitor must be able to switch NTSC and PAL signals (Apple Monitor II is OK for that).  
@@ -92,7 +93,7 @@ Molex  Apple II connector
 ### status
 done, working.
 
-## CGA Video cable (AE Digital RGB Adapter)
+## CGA Video cable (AE: Digital RGB Adapter)
 <img src="images/IMG_3006.jpeg" width="800">
 
 This cable is to use to output video signal directly to a CGA compatible monitor (TTL monitor). Apple II and PCT card can't share easily the same connection for this kind of video connection. Same monitor can display Apple II and PCT signal but for now through two different cables and adaptors (some monitor can automatically switch inputs and "emulate" composite switch or colorswitch behavior)
@@ -176,7 +177,7 @@ You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://gi
 ### status
 done, working.
 
-## ColorSwitch
+## AE ColorSwitch
 The ColorSwitch was designed to allow a PCT-equipped Apple IIGS to display CGA on a standard A2M6014 monitor or a compatible RGB monitor (ex: Sony RGB Monitor, cf AE catalog). When the PCT software is running, the display automatically switches Apple screen to CGA screen.
 This card can also be used with an Apple 2e using an RGB color card (Chat Mauve Féline in my case)  
 <div>
@@ -378,7 +379,7 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 v0.0 : partially working, color inversion but pcb OK  
 v0.2 : work in progress (pcb fabrication in progress)  
 
-## Storage connector (drive cable)  
+## Storage connector (AE: drive cable)  
 <img src="images/IMG_2981.jpeg" height="200">
 
 ### 20 pin IDC Female  
@@ -452,7 +453,7 @@ The IDC connector is keyed (the cable is oriented towards the inside of the appl
 ### status
 done, working.
 
-## Apple 2e keyboard adapter (keyboard cable)
+## Apple 2e keyboard adapter (AE: keyboard cable)
 <img src="images/IMG_3043.jpeg" width="400">
 <img src="images/IMG_3044.jpeg" width="400">
 The keyboard adapter is a small PCB and a ribbon cable supplied as an option with the PCT card. This adapter is placed between the Apple motherboard and the keyboard and provides status of "dead keyboard keys" (control, shift, Apple open/close and capslock) to the PCT card. The other signals are only pass-throughs from the keyboard to the motherboard of the Apple 2e.
@@ -468,7 +469,7 @@ This PCB is roughly the same size and layout as the original one and therefore m
 ### status
 done, working.
 
-## PC Compatible keyboard
+## PC Compatible keyboard (AE: IBM Keyboard Cable)
 <img src="images/IMG_3034.jpeg" height="200">
 This cable is based on a "PS2 extension cable for keyboard and mouse" (like https://amzn.eu/d/a3pizTv) cut approximately 50 cm after the female connector. An 5 pins JST connector (molex connector alternative) is connected to the cables. The female connector is glued into a 3D printed mounting enclosure that can be attached to one of the db9 or db25 (2 versions available) cutouts on the back of the Apple IIe. This first version of the connector need an AT (PS/2) keyboard able to use the XT protocol. Not all AT keyboards are capable to use this protocol, rare older AT keyboards have automatic or manual switching capabilities from AT to XT protocol.  
 <p>
