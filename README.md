@@ -253,7 +253,7 @@ Several connection are possible. You can use internal (on card) or external conn
 
 #### Chat Mauve on card IDC8 connector
 <pre>
-  (card connector)  
+(card connector front view)  
   =================  
   |1 2 3 4 5 6 7 8|  
   -----------------  
