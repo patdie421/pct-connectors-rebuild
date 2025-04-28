@@ -1,6 +1,7 @@
 # pct-connectors-rebuild
 This repository consolidate all the elements which allow to use an "AE PC Transporter" card in an Apple IIe or IIgs. In particular, It contains elements allowing to recreate the cables and connectors which are generally lost when one of these cards is found.  
 Most of the data used to produce the resources of this repository comes from various sources available on the Internet and are referenced in the “useful links” section.  
+Colorswitch PCB was created by retro ingeniring and original card.
 
 <div style="text-align:center;">
 
