@@ -43,7 +43,7 @@ Note the different spacing between the keyboard connector (J17) and the numeric 
 </div>
 
 ### PCT Installation Kit contents
-AE provided 2 installation kits to use the card with Apple IIe or Apple IIgs.  
+AE solded 2 installation kits to use the card with Apple IIe or Apple IIgs.  
 
 #### IIgs installation kit
 - ColorSwitch  
@@ -55,6 +55,7 @@ AE provided 2 installation kits to use the card with Apple IIe or Apple IIgs.
 - speaker cable  
 
 Apple II+, need an aditional cable for connecting a PC/XT keyboard (kit keyboard cable is inusable for II+).  
+
 #### Cables needed for Apple II+
 - IBM Keyboard Cable  
 
