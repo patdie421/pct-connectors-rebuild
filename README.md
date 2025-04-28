@@ -94,7 +94,7 @@ Ribbon cable mount connectors are the best way to make this cable. Some parts th
 ### 10 pin IDC Male  
 <img src="images/IMG_2977.jpeg" width="300">
 <pre>
-(front view)  
+(cabel connector front view)  
 ____________________   
 | 2   4   6   8  10|  
 | 1   3   5   7   9|  
@@ -125,7 +125,7 @@ _|_______ 1|_
 \ 5 4 3 2 1 /
  \ 9 8 7 6 /
   ---------
-(front view)
+(cable connector front view)
 
 Pin  CGA Function
 1    GND
@@ -268,7 +268,7 @@ Several connection are possible. You can use internal (on card) or external conn
 </pre>
 #### BONUS 1 : Chat Mauve Féline on card IDC10 connector (connector need to be soldered)
 <pre>
-  (card connector) 
+  (card connector front view)
   ---------------
   |2  4  6  8 10|
   |1  3  5  7  9|
@@ -286,6 +286,7 @@ Several connection are possible. You can use internal (on card) or external conn
 </pre>
 #### Chat Mauve DB9 female connector
 <pre>
+ (cable connector front view)
 _____________  
 \ 5 4 3 2 1 /  
  \ 9 8 7 6 /  
@@ -361,7 +362,7 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 
 ### Status
 v0.0 : partially working, color inversion but pcb OK  
-v0.2 : work in progress (pcb fabrication)  
+v0.2 : work in progress (pcb fabrication in progress)  
 
 ## Storage connector  
 <img src="images/IMG_2981.jpeg" height="200">
@@ -372,9 +373,9 @@ _________________________________________
 | 20  18  16  14  12  10  8   6   4   2 |  
 | 19  17  15  13  11   9  7   5   3   1 |  
 ------------------|   |------------------  
-  |                                  1|  
-  |           ribbon cables           | 
-(front view)  
+ |                                    1|  
+ |           ribbon cables             | 
+(cable connector front view)  
 </pre>
 ### DB19 Female
 <pre>
@@ -383,7 +384,7 @@ _________________________________________
  \  10  9  8  7  6  5  4  3  2  1 /
   \  19 18 17 16 15 14 13 12 11  / 
    ------------------------------  
-(front view)
+(cabpe connector front view)
 
 Pin Function apple pinout
 1   GND      GND
