@@ -53,6 +53,7 @@ AE provided 2 installation kits to use the card with Apple IIe or Apple IIgs.
 - Keyboard cable  
 - video cable  
 - speaker cable  
+
 Apple II+, need an aditional cable for connecting a PC/XT keyboard (kit keyboard cable is inusable for II+).  
 #### Cables needed for Apple II+
 - IBM Keyboard Cable  
