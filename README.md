@@ -57,7 +57,7 @@ AE solded 2 installation kits to use the card with Apple II+, IIe or Apple IIgs.
 Apple II+, need an aditional cable for connecting a PC/XT keyboard (kit keyboard cable is inusable for II+) : IBM Keyboard Cable.  
 
 #### Digital RGB Adapter (CGA monitor cable)
-On II+/IIe and GS you can use a second monitor to display PCT video output.  
+On II+, IIe and GS you can use a second monitor to display PCT video output. A optional cable is was solded by AE.    
 
 ## Video Composite output (video cable)
 Simple two wires cable. Cheap female/female jumper wire can be used.
