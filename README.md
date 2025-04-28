@@ -42,7 +42,17 @@ PAL:J18 (F2), US:J10 (F14) - Apple II Speaker motherboard connector (OUTPUT)
 Note the different spacing between the keyboard connector (J17) and the numeric keypad connector (J16) of the two card versions.  
 </div>
 
-## Video Composite output
+### PCT Installation Kit contents
+#### IIgs installation kit
+ColorSwitch  
+Drive cable  
+#### IIe installation kit
+Drive cable  
+Keboard cable  
+video cable  
+speaker cable  
+
+## Video Composite output (video cable)
 Simple two wires cable. Cheap female/female jumper wire can be used.
 PCT Card outputs an NTSC composite video signal on J2. PAL motherboards can nevertheless be wired to this Molex connector, but the monitor must be able to switch NTSC and PAL signals (Apple Monitor II is OK for that).  
 ### PCT Molex connector
@@ -162,7 +172,7 @@ You can have cristal clear output on HDMI monitor by using RGBtoHDMI (https://gi
 ### status
 done, working.
 
-## Colorswitch
+## ColorSwitch
 The ColorSwitch was designed to allow a PCT-equipped Apple IIGS to display CGA on a standard A2M6014 monitor or a compatible RGB monitor (ex: Sony RGB Monitor, cf AE catalog). When the PCT software is running, the display automatically switches Apple screen to CGA screen.
 This card can also be used with an Apple 2e using an RGB color card (Chat Mauve Féline in my case)  
 <div>
@@ -178,7 +188,7 @@ This design differs from the original device. The implementation density of comp
 (*) would have been useful with a specific monitor able to display RGB and composite. Could be add in a futur version.   
 <div>
    <p><img src="images/IMG_3200.jpeg" width="300"></p>
-   Rebuilt Colorswitch (v0.0) with DB25 mounting bracket compared to original 
+   Rebuilt ColorSwitch (v0.0) with DB25 mounting bracket compared to original 
 </div>
 
 #### ColorSwitch DB15 female connector
@@ -364,7 +374,7 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 v0.0 : partially working, color inversion but pcb OK  
 v0.2 : work in progress (pcb fabrication in progress)  
 
-## Storage connector  
+## Storage connector (drive cable)  
 <img src="images/IMG_2981.jpeg" height="200">
 
 ### 20 pin IDC Female  
@@ -438,7 +448,7 @@ The IDC connector is keyed (the cable is oriented towards the inside of the appl
 ### status
 done, working.
 
-## Apple 2e keyboard adapter
+## Apple 2e keyboard adapter (keyboard cable)
 <img src="images/IMG_3043.jpeg" width="400">
 <img src="images/IMG_3044.jpeg" width="400">
 The keyboard adapter is a small PCB and a ribbon cable supplied as an option with the PCT card. This adapter is placed between the Apple motherboard and the keyboard and provides status of "dead keyboard keys" (control, shift, Apple open/close and capslock) to the PCT card. The other signals are only pass-throughs from the keyboard to the motherboard of the Apple 2e.
