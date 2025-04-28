@@ -470,7 +470,7 @@ ____
 |2||   Data
 |1||   Clock
 ----
-(cable connector - frond view)
+(cable connector frond view)
 </pre>
 
 ### PS/2 Connector
@@ -478,7 +478,7 @@ ____
     6  N  5
    4       3
      2   1
-(socket/female - front view)
+(socket/female front view)
 
 Pin   Function
  1    Data
@@ -513,7 +513,7 @@ ____
 |2||   Sound signal
 |1||   +5V
 ----
-(front view)
+(PCT connector front view)
 </pre>
 
 ### Apple II speaker
@@ -522,7 +522,7 @@ ____
 |2||   Sound signal
 |1||   +5V
 ----
-(front view)
+(Apple II connector front view)
 </pre>
 
 ## GOTEK + flashfloppy as secondary drive in single TransDrive
