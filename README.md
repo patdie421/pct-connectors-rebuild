@@ -379,7 +379,8 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 
 ### Status
 v0.0 : partially working, color inversion but pcb OK  
-v0.2 : work in progress (pcb fabrication in progress)  
+v0.2 : done working
+v0.3 : new smaller PCB - work in progress
 
 ## Storage connector (AE: drive cable)  
 <img src="images/IMG_2981.jpeg" height="200">
