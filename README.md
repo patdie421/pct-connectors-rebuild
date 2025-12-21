@@ -374,8 +374,8 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 (-o-) optional : to use the cable with the 2gs db15 connector add a 390 Ohms resistor
 </pre>
 
-### BONUS 4 : Chat Mauve TTL connector to rgbtohdmi
-(to do)  
+### BONUS 4 : Chat Mauve TTL / Taxan Taxan Model 410-80 connector to rgbtohdmi
+work in progress    
 
 ### Status
 v0.0 : partially working, color inversion but pcb OK  
