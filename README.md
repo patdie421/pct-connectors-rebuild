@@ -379,7 +379,7 @@ work in progress
 
 ### Status
 v0.0 : partially working, color inversion but pcb OK  
-v0.2 : done working. 
+v0.2 : done working.  
 v0.3 : new smaller PCB - work in progress
 
 ## Storage connector (AE: drive cable)  
