@@ -380,7 +380,8 @@ work in progress
 ### Status
 v0.0 : partially working, color inversion but pcb OK  
 v0.2 : done working.  
-v0.3 : new smaller PCB - work in progress
+v0.3 : new smaller PCB - done, not fully tested, component mounting issue. should work.  
+v0.4 : component position adjustment and sub-d 15 alternative part mount. -- work in progress  
 
 ## Storage connector (AE: drive cable)  
 <img src="images/IMG_2981.jpeg" height="200">
