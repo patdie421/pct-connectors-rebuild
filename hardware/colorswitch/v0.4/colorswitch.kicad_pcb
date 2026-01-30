@@ -3544,6 +3544,8 @@
     )
   )
 
+  (gr_rect (start 103.1875 84.074) (end 104.0765 86.106)
+    (stroke (width 0.12) (type default)) (fill none) (layer "F.SilkS") (tstamp 04cf2159-5b12-4baf-9e10-dd732f3eaa8f))
   (gr_rect (start 96.962 74.83) (end 193.675 118.83)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 23019764-5503-4817-ad18-ac4e7a99ac05))
   (gr_text "Colorswitch neo v0.4" (at 112.141 77.851) (layer "F.SilkS") (tstamp 8d0f0625-b2ea-455a-a0eb-b0d0e67d3551)
