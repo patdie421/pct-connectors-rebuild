@@ -261,7 +261,7 @@ IDC10  IDC10   DB9
   10 -- 10
 </pre>
 
-### db15 to Colorswitch cable (for Apple IIGS)
+### db15 to Colorswitch (IDC6) cable (for Apple IIGS)
 
 (to do)
 
