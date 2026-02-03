@@ -262,8 +262,24 @@ IDC10  IDC10   DB9
 </pre>
 
 ### db15 to Colorswitch (IDC6) cable (for Apple IIGS)
-
-(to do)
+<pre>
+DB15 (male)   IDC-6
+1 : GND         6
+2 : RED         4
+3 : CSYNC       1
+4 : -
+5 : GREEN       5
+6 : GND         6
+7 : -
+8 : -
+9 : BLUE        9
+10 : -
+11 : -
+12 : -
+13 : GND        6
+14 : -
+15 : -
+</pre>
 
 ### Chat Mauve to Colorswitch cable
 Several connection are possible. You can use internal (on card) or external connector (throug db connectors).
