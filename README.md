@@ -335,7 +335,7 @@ _____________
 9 : Audio out
 </pre>
 
-### BONUS 2 : Chat Mauve to A2M6014 compatible monitor
+#### BONUS 2 : Chat Mauve to A2M6014 compatible monitor
 <pre>
 DB9    DB15      IDC8    DB15     IDC10*  DB15
   1 --              1 --             1  --  
@@ -350,8 +350,8 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
                                     10  --  
 </pre>
 
-### BONUS 3 : Colorswitch (or 2gs) to scart cable
-#### Scart pinout (wire side view)
+#### BONUS 3 : Colorswitch (or 2gs) to scart cable
+##### Scart pinout (wire side view)
 <pre>
   _____________________________
  |1  3  5  7  9 11 13 15 17 19 |
@@ -370,7 +370,7 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 (Only needed pins are listed)
 </pre>
 
-#### cable
+##### cable
 <pre>
    DB15 (male)     scart (male)
     1,6,13   ---   5,9,13,17,18
@@ -390,7 +390,7 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 (-o-) optional : to use the cable with the 2gs db15 connector add a 390 Ohms resistor
 </pre>
 
-### BONUS 4 : Chat Mauve TTL / Taxan Taxan Model 410-80 connector to rgbtohdmi
+#### BONUS 4 : Chat Mauve TTL / Taxan Taxan Model 410-80 connector to rgbtohdmi
 work in progress    
 
 ### Status
