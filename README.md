@@ -50,11 +50,12 @@ AE solded 2 installation kits to use the card with Apple II+, IIe or Apple IIgs.
 - Drive cable  
 #### II+/IIe installation kit
 - Drive cable  
-- Keyboard cable  
+- Keyboard cable*  
 - video cable  
 - speaker cable  
 
-Apple II+, need an aditional cable for connecting a PC/XT keyboard (kit keyboard cable is inusable for II+) : IBM Keyboard Cable.  
+(*) Apple II+, need an aditional cable for connecting a PC/XT keyboard (kit keyboard cable is inusable for II+) : IBM Keyboard Cable.  
+  
 All this cables are described for rebuild bellow.  
 
 #### Digital RGB Adapter (CGA monitor cable)
