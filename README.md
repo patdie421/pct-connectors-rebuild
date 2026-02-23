@@ -50,20 +50,18 @@ AE solded 2 installation kits to use the card with Apple II+, IIe or Apple IIgs.
 - Drive cable  
 #### II+/IIe installation kit
 - Drive cable  
-- Keyboard cable*  
+- Keyboard cable(*)  
 - video cable  
 - speaker cable  
 
 (*) Apple II+, need an aditional cable for connecting a PC/XT keyboard (kit keyboard cable is inusable for II+) : IBM Keyboard Cable.  
   
-All this cables are described for rebuild bellow.  
-
 #### Digital RGB Adapter (CGA monitor cable)
-On II+, IIe and GS you can use a second monitor to display PCT video output. A optional cable was solded by AE.    
+On II+, IIe and GS you can use a second monitor to display PCT video output. A optional cable was solded by AE.  
 
 ## Video Composite output (video cable)
-Simple two wires cable. Cheap female/female jumper wire can be used.
-PCT Card outputs an NTSC composite video signal on J2. PAL motherboards can nevertheless be wired to this Molex connector, but the monitor must be able to switch NTSC and PAL signals (Apple Monitor II is OK for that).  
+Simple two wires cable. Cheap female/female jumper wire can be used.  
+PCT Card outputs an monochrome NTSC composite video signal on J2. PAL motherboards can nevertheless be wired to this Molex connector, but the monitor must be able to switch NTSC and PAL signals (Apple Monitor II is OK for that but the image will "move" a little vertically).  
 ### PCT Molex connector
 <pre>
 ____
