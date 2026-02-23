@@ -390,8 +390,8 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
 (-o-) optional : to use the cable with the 2gs db15 connector add a 390 Ohms resistor
 </pre>
 
-#### BONUS 4 : Chat Mauve TTL / Taxan Taxan Model 410-80 connector to rgbtohdmi
-work in progress    
+#### BONUS 4 : Chat Mauve TTL / Taxan Model 410-80 connector to rgbtohdmi
+It is now possible to use TTL Taxan video card with Colorswitch by using a TTL xRGB to RGB convertor. You can found it a this location: https://github.com/patdie421/xrgb2rgb  
 
 ### Status
 v0.0 : partially working, color inversion but pcb OK  
