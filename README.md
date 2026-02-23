@@ -42,7 +42,7 @@ PAL:J18 (F2), US:J10 (F14) - Apple II Speaker motherboard connector (OUTPUT)
 Note the different spacing between the keyboard connector (J17) and the numeric keypad connector (J16) of the two card versions.  
 </div>
 
-### PCT Installation Kit contents
+### Original PCT Installation Kit contents
 AE solded 2 installation kits to use the card with Apple II+, IIe or Apple IIgs.  
 
 #### IIgs installation kit
