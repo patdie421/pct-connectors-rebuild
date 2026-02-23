@@ -397,7 +397,7 @@ It is now possible to use TTL Taxan video card with Colorswitch by using a TTL x
 ### Status
 v0.0 : partially working, color inversion but pcb OK  
 v0.2 : done working.  
-v0.3 : new smaller PCB - done, working bu component mounting issue.  
+v0.3 : new smaller PCB - done, working but component mounting issue.  
 v0.4 : component position adjustment and sub-d 15 alternative part mount. Tested, working.  
 
 ## Storage connector (AE: drive cable)  
