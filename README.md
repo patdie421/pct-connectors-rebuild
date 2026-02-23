@@ -359,6 +359,7 @@ DB9    DB15      IDC8    DB15     IDC10*  DB15
   -------------------------------
 5  - RGB Ground Blue
 7  - RGB Blue In
+8  - Switching
 9  - RGB Ground Green
 11 - RGB Green In
 13 - RGB Ground Red
